@@ -1,0 +1,48 @@
+
+# 代表性论文 
+
+\* 通讯作者
+
+- [Lion:Minimizing Distributed Transactions through Adaptive Replica Provision]() 
+<br />Qiushi Zheng, Zhanhao Zhao, Wei LU, **Chang Yao**, Yuxing Chen, Anqun Pan, Xiaoyong Du
+<br />Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE), 2024
+
+- [Positive-Unlabeled Learning by Latent Group-Aware Meta Disambiguation]()
+<br />Lin Long, Haobo Wang, Zhijie Jiang, Lei Feng, **Chang Yao**, Gang Chen, Junbo Zhao
+<br />Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+
+- [Quantum Computing for Databases: A Short Survey and Vision]()
+<br />Gongsheng Yuan, Jiaheng Lu, Yuxing Chen, Sai Wu, **Chang Yao**, Zhengtong Yan, Tuodu Li, Gang Chen
+<br />International Workshop on Quantum Data Science and Management (QDSM), 2023
+
+- [SynBERT: Chinese Synonym Discovery on Privacy-Constrain Medical Terms with Pre-trained BERT]()
+<br />Lingze Zeng, **Chang Yao**, Meihui Zhang, Zhongle Xie
+<br />APWeb-WAIM, 2023
+
+- [Spatial-temporal correlation modeling for motion prediction]()
+<br />Yingying Jiao, Haipeng Chen, **Chang Yao**, Pengxiang Su, Chong Fu, Xiang Wang
+<br />IEEE International Conference on Multimedia and Expo (ICME), 2022
+
+- [ELDA: Learning explicit dual-interactions for healthcare analytics]()
+<br />Qingpeng Cai, Kaiping Zheng, Beng Chin Ooi, Wei Wang, **Chang Yao**
+<br />Proceedings of the 38th IEEE International Conference on Data Engineering (ICDE), 2022
+
+- [Malware Detection by Exploiting Deep Learning over Binary Programs]()
+<br />Panpan Qi, Zhaoqi Zhang, Wei Wang, **Chang Yao**
+<br />International Conference on Pattern Recognition(ICPR), 2020
+
+- [Scaling distributed transaction processing and recovery based on dependency logging]()
+<br /> **Chang Yao**, Meihui Zhang, Qian Lin, Beng Chin Ooi, Jiatao Xu
+<br />The VLDB Journal (VLDBJ), 2018
+
+- [Exploiting single-threaded model in multi-core in-memory systems]()
+<br /> **Chang Yao**, Divyakant Agrawal, Gang Chen, Qian Lin, Beng Chin Ooi, Weng-Fai Wong, Meihui Zhang
+<br />IEEE Transactions on Knowledge and Data Engineering (TKDE), 2016
+
+- [Adaptive logging: Optimizing logging and recovery costs in distributed in-memory databases]()
+<br />**Chang Yao**, Divyakant Agrawal, Gang Chen, Beng Chin Ooi, Sai Wu
+<br />Proceedings of the ACM International Conference on Management of Data (SIGMOD), 2016
+
+- [In-memory databases: Challenges and opportunities from software and hardware perspectives]()
+<br /> Kian-Lee Tan, Qingchao Cai, Beng Chin Ooi, Weng-Fai Wong, **Chang Yao**, Hao Zhang
+<br />SIGMOD Record, 2015
