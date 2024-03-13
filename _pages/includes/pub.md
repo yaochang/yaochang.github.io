@@ -8,7 +8,7 @@
 <br />Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE), 2024
 
 - [Positive-Unlabeled Learning by Latent Group-Aware Meta Disambiguation]()
-<br />Lin Long, Haobo Wang, Zhijie Jiang, Lei Feng, **Chang Yao**, Gang Chen, Junbo Zhao
+<br />Lin Long, Haobo Wang, Zhijie Jiang, Lei Feng, **Chang Yao\***, Gang Chen, Junbo Zhao
 <br />Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
 - [Quantum Computing for Databases: A Short Survey and Vision]()
@@ -16,7 +16,7 @@
 <br />International Workshop on Quantum Data Science and Management (QDSM), 2023
 
 - [SynBERT: Chinese Synonym Discovery on Privacy-Constrain Medical Terms with Pre-trained BERT]()
-<br />Lingze Zeng, **Chang Yao**, Meihui Zhang, Zhongle Xie
+<br />Lingze Zeng, **Chang Yao\***, Meihui Zhang, Zhongle Xie
 <br />APWeb-WAIM, 2023
 
 - [Spatial-temporal correlation modeling for motion prediction]()
