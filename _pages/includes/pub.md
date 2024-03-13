@@ -4,7 +4,7 @@
 \* 通讯作者
 
 - [Lion:Minimizing Distributed Transactions through Adaptive Replica Provision]() 
-<br />Qiushi Zheng, Zhanhao Zhao, Wei LU, **Chang Yao**, Yuxing Chen, Anqun Pan, Xiaoyong Du
+<br />Qiushi Zheng, Zhanhao Zhao, Wei Lu, **Chang Yao**, Yuxing Chen, Anqun Pan, Xiaoyong Du
 <br />Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE), 2024
 
 - [Positive-Unlabeled Learning by Latent Group-Aware Meta Disambiguation]()
