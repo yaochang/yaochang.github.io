@@ -3,12 +3,28 @@
 
 \* 通讯作者
 
+- [Non-stationary Online Convex Optimization with Arbitrary Delays]()
+<br /> Yuanyu Wan, **Chang Yao**, Mingli Song, Lijun Zhang
+<br />Forty-first International Conference on Machine Learning (ICML), 2024
+
+- [Advancing Medical Image Segmentation via Self-supervised Instance-adaptive Prototype Learning]()
+<br /> Guoyan Liang, Qin Zhou, Jingyuan Chen, Zhe Wang\*, **Chang Yao\***
+<br />The 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024
+
+- [Learning Label-Adaptive Representation for Large-Scale Multi-Label Text Classification]()
+<br />Cheng Peng, Haobo Wang, Jue Wang, Lidan Shou, Ke Chen, Gang Chen, **Chang Yao\***
+<br />IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP), 2024
+
+- [FedPAM: Federated Personalized Augmentation Model for Text-to-Image Retrieval]() 
+<br />Yueying Feng, Fan Ma, Wang Lin, **Chang Yao**, Jingyuan Chen, Yi Yang
+<br />The 14th International Conference on Multimedia Retrieval (ICMR), 2024
+
 - [Lion:Minimizing Distributed Transactions through Adaptive Replica Provision]() 
-<br />Qiushi Zheng, Zhanhao Zhao, Wei LU, **Chang Yao**, Yuxing Chen, Anqun Pan, Xiaoyong Du
+<br />Qiushi Zheng, Zhanhao Zhao, Wei Lu, **Chang Yao**, Yuxing Chen, Anqun Pan, Xiaoyong Du
 <br />Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE), 2024
 
 - [Positive-Unlabeled Learning by Latent Group-Aware Meta Disambiguation]()
-<br />Lin Long, Haobo Wang, Zhijie Jiang, Lei Feng, **Chang Yao**, Gang Chen, Junbo Zhao
+<br />Lin Long, Haobo Wang, Zhijie Jiang, Lei Feng, **Chang Yao\***, Gang Chen, Junbo Zhao
 <br />Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
 - [Quantum Computing for Databases: A Short Survey and Vision]()
@@ -16,7 +32,7 @@
 <br />International Workshop on Quantum Data Science and Management (QDSM), 2023
 
 - [SynBERT: Chinese Synonym Discovery on Privacy-Constrain Medical Terms with Pre-trained BERT]()
-<br />Lingze Zeng, **Chang Yao**, Meihui Zhang, Zhongle Xie
+<br />Lingze Zeng, **Chang Yao\***, Meihui Zhang, Zhongle Xie
 <br />APWeb-WAIM, 2023
 
 - [Spatial-temporal correlation modeling for motion prediction]()
