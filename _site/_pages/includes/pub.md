@@ -1,7 +1,7 @@
 
-# 代表性论文 
+# Selected Publications 
 
-\* 通讯作者
+\* Corresponding Author
 
 - [Non-stationary Online Convex Optimization with Arbitrary Delays]()
 <br /> Yuanyu Wan, **Chang Yao**, Mingli Song, Lijun Zhang

@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "姚畅（Yao Chang）"
-description              : "研究员，博士生导师"
+title                    : "Chang Yao"
+description              : "ZJU100 Young Professor"
 repository               : "yaochang/yaochang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,10 +21,10 @@ baidu_site_verification  : #code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "姚畅（Yao Chang）"
+  name             : "Chang Yao"
   avatar           : "images/yc-2020.jpeg"
-  bio              : "浙江大学软件学院"
-  location         : "中国杭州"
+  bio              : "Zhejiang University"
+  location         : "Hangzhou China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
