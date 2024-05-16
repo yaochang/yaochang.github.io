@@ -4,7 +4,7 @@
 \* Corresponding Author
 
 - [MPCoder:Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning]()
-<br />Zhenlong Dai, **Chang Yao**, WenKang Han, Yuanying, Zhipeng Gao, Jingyuan Chen
+<br />Zhenlong Dai, **Chang Yao**, Wenkang Han, Ying Yuan, Zhipeng Gao, Jingyuan Chen
 <br />The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024
 
 - [Non-stationary Online Convex Optimization with Arbitrary Delays]()
