@@ -3,12 +3,16 @@
 
 \* Corresponding Author
 
+- [MPCoder:Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning]()
+<br />Zhenlong Dai, **Chang Yao**, WenKang Han, Yuanying, Zhipeng Gao, Jingyuan Chen
+<br />The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024
+
 - [Non-stationary Online Convex Optimization with Arbitrary Delays]()
-<br /> Yuanyu Wan, **Chang Yao**, Mingli Song, Lijun Zhang
+<br />Yuanyu Wan, **Chang Yao**, Mingli Song, Lijun Zhang
 <br />Forty-first International Conference on Machine Learning (ICML), 2024
 
 - [Advancing Medical Image Segmentation via Self-supervised Instance-adaptive Prototype Learning]()
-<br /> Guoyan Liang, Qin Zhou, Jingyuan Chen, Zhe Wang\*, **Chang Yao\***
+<br />Guoyan Liang, Qin Zhou, Jingyuan Chen, Zhe Wang\*, **Chang Yao\***
 <br />The 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024
 
 - [Learning Label-Adaptive Representation for Large-Scale Multi-Label Text Classification]()
