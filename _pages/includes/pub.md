@@ -1,7 +1,7 @@
 
 # Selected Publications 
 
-\* Corresponding Author  \# Supervised Student
+\* Corresponding Author  \# (Co-)Supervised Student
 
 - [MPCoder:Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning]()
 <br />Zhenlong Dai\#, **Chang Yao**, Wenkang Han, Ying Yuan, Zhipeng Gao, Jingyuan Chen
