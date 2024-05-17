@@ -3,6 +3,10 @@
 
 \* Corresponding Author  \# (Co-)Supervised Student
 
+- [CoMAL: Contrastive Active Learning for Multi-Label Text Classification]()
+<br />Cheng Peng, Haobo Wang, Ke Chen, Lidan Shou, **Chang Yao**, Runze Wu, Gang Chen
+<br />30th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
+
 - [MPCoder:Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning]()
 <br />Zhenlong Dai\#, **Chang Yao**, Wenkang Han\#, Ying Yuan, Zhipeng Gao, Jingyuan Chen
 <br />The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024

@@ -1,14 +1,22 @@
 
 # Selected Publications 
 
-\* Corresponding Author
+\* Corresponding Author  \# (Co-)Supervised Student
+
+- [CoMAL: Contrastive Active Learning for Multi-Label Text Classification]()
+<br />Cheng Peng, Haobo Wang, Ke Chen, Lidan Shou, **Chang Yao**, Runze Wu, Gang Chen
+<br />30th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
+
+- [MPCoder:Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning]()
+<br />Zhenlong Dai\#, **Chang Yao**, Wenkang Han\#, Ying Yuan, Zhipeng Gao, Jingyuan Chen
+<br />The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024
 
 - [Non-stationary Online Convex Optimization with Arbitrary Delays]()
-<br /> Yuanyu Wan, **Chang Yao**, Mingli Song, Lijun Zhang
+<br />Yuanyu Wan, **Chang Yao**, Mingli Song, Lijun Zhang
 <br />Forty-first International Conference on Machine Learning (ICML), 2024
 
 - [Advancing Medical Image Segmentation via Self-supervised Instance-adaptive Prototype Learning]()
-<br /> Guoyan Liang, Qin Zhou, Jingyuan Chen, Zhe Wang\*, **Chang Yao\***
+<br />Guoyan Liang\#, Qin Zhou, Jingyuan Chen, Zhe Wang\*, **Chang Yao\***
 <br />The 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024
 
 - [Learning Label-Adaptive Representation for Large-Scale Multi-Label Text Classification]()
@@ -16,7 +24,7 @@
 <br />IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP), 2024
 
 - [FedPAM: Federated Personalized Augmentation Model for Text-to-Image Retrieval]() 
-<br />Yueying Feng, Fan Ma, Wang Lin, **Chang Yao**, Jingyuan Chen, Yi Yang
+<br />Yueying Feng\#, Fan Ma, Wang Lin, **Chang Yao**, Jingyuan Chen, Yi Yang
 <br />The 14th International Conference on Multimedia Retrieval (ICMR), 2024
 
 - [Lion:Minimizing Distributed Transactions through Adaptive Replica Provision]() 
