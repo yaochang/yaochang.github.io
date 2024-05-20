@@ -3,6 +3,11 @@
 
 \* Corresponding Author  \# (Co-)Supervised Student
 
+
+## Conference Publications
+
+### 2024
+
 - [CoMAL: Contrastive Active Learning for Multi-Label Text Classification]()
 <br />Cheng Peng, Haobo Wang, Ke Chen, Lidan Shou, **Chang Yao**, Runze Wu, Gang Chen
 <br />30th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
@@ -19,10 +24,6 @@
 <br />Guoyan Liang\#, Qin Zhou, Jingyuan Chen, Zhe Wang\*, **Chang Yao\***
 <br />The 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024
 
-- [Learning Label-Adaptive Representation for Large-Scale Multi-Label Text Classification]()
-<br />Cheng Peng, Haobo Wang, Jue Wang, Lidan Shou, Ke Chen, Gang Chen, **Chang Yao\***
-<br />IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP), 2024
-
 - [FedPAM: Federated Personalized Augmentation Model for Text-to-Image Retrieval]() 
 <br />Yueying Feng\#, Fan Ma, Wang Lin, **Chang Yao**, Jingyuan Chen, Yi Yang
 <br />The 14th International Conference on Multimedia Retrieval (ICMR), 2024
@@ -34,6 +35,9 @@
 - [Positive-Unlabeled Learning by Latent Group-Aware Meta Disambiguation]()
 <br />Lin Long, Haobo Wang, Zhijie Jiang, Lei Feng, **Chang Yao\***, Gang Chen, Junbo Zhao
 <br />Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+
+
+### 2023 and Before
 
 - [Quantum Computing for Databases: A Short Survey and Vision]()
 <br />Gongsheng Yuan, Jiaheng Lu, Yuxing Chen, Sai Wu, **Chang Yao**, Zhengtong Yan, Tuodu Li, Gang Chen
@@ -55,6 +59,17 @@
 <br />Panpan Qi, Zhaoqi Zhang, Wei Wang, **Chang Yao**
 <br />International Conference on Pattern Recognition(ICPR), 2020
 
+- [Adaptive logging: Optimizing logging and recovery costs in distributed in-memory databases]()
+<br />**Chang Yao**, Divyakant Agrawal, Gang Chen, Beng Chin Ooi, Sai Wu
+<br />Proceedings of the ACM International Conference on Management of Data (SIGMOD), 2016
+
+
+## Journal Publications
+
+- [Learning Label-Adaptive Representation for Large-Scale Multi-Label Text Classification]()
+<br />Cheng Peng, Haobo Wang, Jue Wang, Lidan Shou, Ke Chen, Gang Chen, **Chang Yao\***
+<br />IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP), 2024
+
 - [Scaling distributed transaction processing and recovery based on dependency logging]()
 <br /> **Chang Yao**, Meihui Zhang, Qian Lin, Beng Chin Ooi, Jiatao Xu
 <br />The VLDB Journal (VLDBJ), 2018
@@ -62,10 +77,6 @@
 - [Exploiting single-threaded model in multi-core in-memory systems]()
 <br /> **Chang Yao**, Divyakant Agrawal, Gang Chen, Qian Lin, Beng Chin Ooi, Weng-Fai Wong, Meihui Zhang
 <br />IEEE Transactions on Knowledge and Data Engineering (TKDE), 2016
-
-- [Adaptive logging: Optimizing logging and recovery costs in distributed in-memory databases]()
-<br />**Chang Yao**, Divyakant Agrawal, Gang Chen, Beng Chin Ooi, Sai Wu
-<br />Proceedings of the ACM International Conference on Management of Data (SIGMOD), 2016
 
 - [In-memory databases: Challenges and opportunities from software and hardware perspectives]()
 <br /> Kian-Lee Tan, Qingchao Cai, Beng Chin Ooi, Weng-Fai Wong, **Chang Yao**, Hao Zhang
