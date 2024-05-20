@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chang Yao"
-description              : "ZJU100 Young Professor"
+description              : #"ZJU100 Young Professor"
 repository               : "yaochang/yaochang.github.io"
 google_scholar_stats_use_cdn : false
 
