@@ -1,7 +1,7 @@
 
 # Selected Publications 
 
-\* Corresponding Author  \# (Co-)Supervised Student
+\* Corresponding Author  \# (Co-)Supervised Students
 
 
 ## Conference Publications
@@ -24,15 +24,15 @@
 <br />Guoyan Liang\#, Qin Zhou, Jingyuan Chen, Zhe Wang\*, **Chang Yao\***
 <br />The 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024
 
-- \[C9\] [FedPAM: Federated Personalized Augmentation Model for Text-to-Image Retrieval]() 
+- \[C9\] [FedPAM: Federated Personalized Augmentation Model for Text-to-Image Retrieval](https://dl.acm.org/doi/10.1145/3652583.3657627) 
 <br />Yueying Feng\#, Fan Ma, Wang Lin, **Chang Yao**, Jingyuan Chen, Yi Yang
 <br />The 14th International Conference on Multimedia Retrieval (ICMR), 2024
 
-- \[C8\] [Lion:Minimizing Distributed Transactions through Adaptive Replica Provision]() 
+- \[C8\] [Lion:Minimizing Distributed Transactions through Adaptive Replica Provision](https://arxiv.org/pdf/2403.11221) 
 <br />Qiushi Zheng, Zhanhao Zhao, Wei Lu, **Chang Yao**, Yuxing Chen, Anqun Pan, Xiaoyong Du
 <br />Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE), 2024
 
-- \[C7\] [Positive-Unlabeled Learning by Latent Group-Aware Meta Disambiguation]()
+- \[C7\] [Positive-Unlabeled Learning by Latent Group-Aware Meta Disambiguation](https://openaccess.thecvf.com/content/CVPR2024/papers/Long_Positive-Unlabeled_Learning_by_Latent_Group-Aware_Meta_Disambiguation_CVPR_2024_paper.pdf)
 <br />Lin Long, Haobo Wang, Zhijie Jiang, Lei Feng, **Chang Yao\***, Gang Chen, Junbo Zhao
 <br />Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
