@@ -7,16 +7,15 @@
 
 ### 2025
 
-- \[C15\] [QueryArtisan: Generating Data Manipulation Codes for Ad-hoc Analysis in Data Lakes]()
+- \[C16\] [QueryArtisan: Generating Data Manipulation Codes for Ad-hoc Analysis in Data Lakes]()
 <br />Xiu Tang, Wenhao Liu, Sai Wu, **Chang Yao\***, Gongsheng Yuan, Shanshan Ying, Gang Chen
 <br />51st International Conference on Very Large Data Bases (VLDB), 2025
 
 ### 2024
 
-<!-- - \[C16\] [E<sup>3</sup>: Exploring Embodied Emotion Through A Large-Scale Egocentric Video Dataset]()
-<br />Wang Lin, Yueying Feng\#, WenKang Han\#, Tao Jin, Zhou Zhao, Fei Wu, **Chang Yao**, Jingyuan Chen
+ - \[C15\] [E<sup>3</sup>: Exploring Embodied Emotion Through A Large-Scale Egocentric Video Dataset]()
+<br />Wang Lin, Yueying Feng\#, WenKang Han\#, Tao Jin, Zhou Zhao, Fei Wu, **Chang Yao\***, Jingyuan Chen
 <br />The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS) 2024
--->
 
 - \[C14\] [Improved Regret for Bandit Convex Optimization with Delayed Feedback]()
 <br />Yuanyu Wan, **Chang Yao**, Mingli Song, Lijun Zhang
@@ -30,7 +29,7 @@
 <br />Zhenlong Dai\#, **Chang Yao**, Wenkang Han\#, Ying Yuan, Zhipeng Gao, Jingyuan Chen
 <br />The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024
 
-- \[C11\][Non-stationary Online Convex Optimization with Arbitrary Delays](https://openreview.net/pdf?id=YvPNwLedpQ)
+- \[C11\] [Non-stationary Online Convex Optimization with Arbitrary Delays](https://openreview.net/pdf?id=YvPNwLedpQ)
 <br />Yuanyu Wan, **Chang Yao**, Mingli Song, Lijun Zhang
 <br />Forty-first International Conference on Machine Learning (ICML), 2024
 
