@@ -29,7 +29,7 @@
 <br />Zhenlong Dai\#, **Chang Yao**, Wenkang Han\#, Ying Yuan, Zhipeng Gao, Jingyuan Chen
 <br />The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024
 
-- \[C11\][Non-stationary Online Convex Optimization with Arbitrary Delays](https://openreview.net/pdf?id=YvPNwLedpQ)
+- \[C11\] [Non-stationary Online Convex Optimization with Arbitrary Delays](https://openreview.net/pdf?id=YvPNwLedpQ)
 <br />Yuanyu Wan, **Chang Yao**, Mingli Song, Lijun Zhang
 <br />Forty-first International Conference on Machine Learning (ICML), 2024
 
