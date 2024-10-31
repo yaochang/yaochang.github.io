@@ -14,7 +14,7 @@
 ### 2024
 
  - \[C15\] [E<sup>3</sup>: Exploring Embodied Emotion Through A Large-Scale Egocentric Video Dataset]()
-<br />Wang Lin, Yueying Feng\#, WenKang Han\#, Tao Jin, Zhou Zhao, Fei Wu, **Chang Yao\***, Jingyuan Chen
+<br />Wang Lin, Yueying Feng\#, WenKang Han\#, Tao Jin, Zhou Zhao, Fei Wu, **Chang Yao**, Jingyuan Chen
 <br />The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS) 2024
 
 - \[C14\] [Improved Regret for Bandit Convex Optimization with Delayed Feedback]()
