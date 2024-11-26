@@ -7,54 +7,59 @@
 
 ### 2025
 
-- \[C16\] [QueryArtisan: Generating Data Manipulation Codes for Ad-hoc Analysis in Data Lakes]()
+- \[C17\] [QueryArtisan: Generating Data Manipulation Codes for Ad-hoc Analysis in Data Lakes]()
 <br />Xiu Tang, Wenhao Liu, Sai Wu, **Chang Yao\***, Gongsheng Yuan, Shanshan Ying, Gang Chen
 <br />51st International Conference on Very Large Data Bases (VLDB), 2025
 
 ### 2024
 
- - \[C15\] [E<sup>3</sup>: Exploring Embodied Emotion Through A Large-Scale Egocentric Video Dataset]()
+ - \[C16\] [E<sup>3</sup>: Exploring Embodied Emotion Through A Large-Scale Egocentric Video Dataset]()
 <br />Wang Lin, Yueying Feng\#, WenKang Han\#, Tao Jin, Zhou Zhao, Fei Wu, **Chang Yao**, Jingyuan Chen
 <br />The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS) 2024
 
-- \[C14\] [Improved Regret for Bandit Convex Optimization with Delayed Feedback]()
+- \[C15\] [Improved Regret for Bandit Convex Optimization with Delayed Feedback]()
 <br />Yuanyu Wan, **Chang Yao**, Mingli Song, Lijun Zhang
 <br />The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS) 2024
 
-- \[C13\] [CoMAL: Contrastive Active Learning for Multi-Label Text Classification](https://dl.acm.org/doi/abs/10.1145/3637528.3671754)
+- \[C14\] [CoMAL: Contrastive Active Learning for Multi-Label Text Classification](https://dl.acm.org/doi/abs/10.1145/3637528.3671754)
 <br />Cheng Peng, Haobo Wang, Ke Chen, Lidan Shou, **Chang Yao**, Runze Wu, Gang Chen
 <br />30th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
 
-- \[C12\] [MPCoder:Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning](https://aclanthology.org/2024.acl-long.207)
+- \[C13\] [MPCoder:Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning](https://aclanthology.org/2024.acl-long.207)
 <br />Zhenlong Dai\#, **Chang Yao**, Wenkang Han\#, Ying Yuan, Zhipeng Gao, Jingyuan Chen
 <br />The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024
 
-- \[C11\] [Non-stationary Online Convex Optimization with Arbitrary Delays](https://openreview.net/pdf?id=YvPNwLedpQ)
+- \[C12\] [Non-stationary Online Convex Optimization with Arbitrary Delays](https://openreview.net/pdf?id=YvPNwLedpQ)
 <br />Yuanyu Wan, **Chang Yao**, Mingli Song, Lijun Zhang
 <br />Forty-first International Conference on Machine Learning (ICML), 2024
 
-- \[C10\] [Advancing Medical Image Segmentation via Self-supervised Instance-adaptive Prototype Learning](https://www.ijcai.org/proceedings/2024/117)
+- \[C11\] [Advancing Medical Image Segmentation via Self-supervised Instance-adaptive Prototype Learning](https://www.ijcai.org/proceedings/2024/117)
 <br />Guoyan Liang\#, Qin Zhou, Jingyuan Chen, Zhe Wang\*, **Chang Yao\***
 <br />The 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024
 
-- \[C9\] [FedPAM: Federated Personalized Augmentation Model for Text-to-Image Retrieval](https://dl.acm.org/doi/10.1145/3652583.3657627) 
+- \[C10\] [FedPAM: Federated Personalized Augmentation Model for Text-to-Image Retrieval](https://dl.acm.org/doi/10.1145/3652583.3657627) 
 <br />Yueying Feng\#, Fan Ma, Wang Lin, **Chang Yao**, Jingyuan Chen, Yi Yang
 <br />The 14th International Conference on Multimedia Retrieval (ICMR), 2024
 
-- \[C8\] [Lion:Minimizing Distributed Transactions through Adaptive Replica Provision](https://arxiv.org/pdf/2403.11221) 
+- \[C9\] [Lion:Minimizing Distributed Transactions through Adaptive Replica Provision](https://arxiv.org/pdf/2403.11221) 
 <br />Qiushi Zheng, Zhanhao Zhao, Wei Lu, **Chang Yao**, Yuxing Chen, Anqun Pan, Xiaoyong Du
 <br />Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE), 2024
 
-- \[C7\] [Positive-Unlabeled Learning by Latent Group-Aware Meta Disambiguation](https://openaccess.thecvf.com/content/CVPR2024/papers/Long_Positive-Unlabeled_Learning_by_Latent_Group-Aware_Meta_Disambiguation_CVPR_2024_paper.pdf)
+- \[C8\] [Positive-Unlabeled Learning by Latent Group-Aware Meta Disambiguation](https://openaccess.thecvf.com/content/CVPR2024/papers/Long_Positive-Unlabeled_Learning_by_Latent_Group-Aware_Meta_Disambiguation_CVPR_2024_paper.pdf)
 <br />Lin Long, Haobo Wang, Zhijie Jiang, Lei Feng, **Chang Yao\***, Gang Chen, Junbo Zhao
 <br />Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+
+- \[C7\] [Quantum Storage Design for Tables in RDBMS]()
+<br />Tuodu Li, Gongsheng Yuan\*, **Chang Yao\***, Meng Shi, Ziyue Wang, Ling Qian, Jiaheng Lu
+<br />VLDB 2024 Workshop: The Second International Workshop on Quantum Data Science and Management (QDSM’24).
+
 
 
 ### 2023 and Before
 
 - \[C6\] [Quantum Computing for Databases: A Short Survey and Vision](https://ceur-ws.org/Vol-3462/QDSM6.pdf)
 <br />Gongsheng Yuan, Jiaheng Lu, Yuxing Chen, Sai Wu, **Chang Yao**, Zhengtong Yan, Tuodu Li, Gang Chen
-<br />International Workshop on Quantum Data Science and Management (QDSM), 2023
+<br />VLDB 2023 Workshop: International Workshop on Quantum Data Science and Management (QDSM'23).
 
 - \[C5\] [SynBERT: Chinese Synonym Discovery on Privacy-Constrain Medical Terms with Pre-trained BERT](https://link.springer.com/chapter/10.1007/978-3-031-25158-0_25)
 <br />Lingze Zeng, **Chang Yao\***, Meihui Zhang, Zhongle Xie
