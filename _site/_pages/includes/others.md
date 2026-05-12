@@ -43,11 +43,7 @@
 <footer>
   <!-- 站点访问量 -->
   <span id="busuanzi_container_site_pv">
-    总访问 <span id="busuanzi_value_site_pv"></span> 次
-  </span>
-  <!-- 本页阅读量 -->
-  <span id="busuanzi_container_page_pv">
-    本文阅读 <span id="busuanzi_value_page_pv"></span> 次
+    本页面总访问 <span id="busuanzi_value_site_pv"></span> 次
   </span>
 </footer>
 
@@ -56,8 +52,8 @@
   data-busuanzi-path="/reset-20260512-xyz/">
 </script>
 
-
-
-
-
 Webpage template borrowed from: [RayeRen](https://github.com/RayeRen/acad-homepage.github.io)
+
+
+
+
