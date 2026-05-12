@@ -1,14 +1,30 @@
-# (Co-)Supervised Students
+# 学生培养
 
-\* Co-first Author
+## 在读学生
 
-|Name|Grade|Highlights| First Employment|
-|------|------|------------|------|
-| Guoyan Liang | Ph.D. in 2022 | IJCAI'24 | |
-| Zhenlong Dai | M.S. in 2022, Ph.D. in 2024 | ACL'24 | |
-| Aoming Cui | M.S. in 2022 | | ByteDance |
-| Xiaodong Wang | M.S. in 2022 |  | Bank of Nanjing | 
-| Yueying Feng | M.S. in 2023 | ICMR'24, NeurIPS'24（\*） | |
-| Wenkang Han | M.S. in 2023 | NeurIPS'24（\*） | |
-| Qingsong Wang | M.S. in 2024 | | |
-| Xujie Song | M.S. in 2024 | | |
+\* 共同一作
+
+|姓名|入学年份|阶段性成果|实习|
+|------|------|------|----------|
+| 梁国艳 | 2022级博士 | IJCAI'24, AAAI'25, ICCV'25(\*), ACL'26(\*)| 联想研究院(2025.05-2025.09)|
+| 戴振龙 | 2022级硕士, 2024级博士 | ACL'24, AAAI'25, AAAI'26 | |
+| 王庆松 | 2024级硕士 | ICLR'26, CVPR'25(\*), EMNLP'25(Findings)| |
+| 宋旭洁 | 2024级硕士 | | |
+| 杨千毅 | 2025级博士 | JBHI'25 | |
+| 赵卓荦 | 2025级硕士 | AAAI'26(\*)| |
+| 雷启功 | 2025级硕士 | | |
+| 曹庭雨 | 2025级硕士 | | |
+| 楚梦琦 | 2025级硕士 | | |
+
+
+
+
+
+## 毕业学生
+
+|姓名|时间|学位|工作单位|备注|
+|------|------|------|------------|---------|
+|韩文康| 2023-2026|硕士研究生|	腾讯（深圳）| IJCAI'25, MM'25|
+|冯玥瑛| 2023-2026|硕士研究生| 腾讯（北京）| ICMR'24, NeurIPS'24(\*)|
+|崔奥明| 2022-2025|硕士研究生|	字节跳动| 浙江大学优秀研究生毕业生|
+|王孝东| 2022-2025|硕士研究生| 南京银行| |

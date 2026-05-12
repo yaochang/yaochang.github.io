@@ -1,4 +1,4 @@
 
-# Biography
+# 个人简介
 
-Dr. Chang Yao is currently a researcher at the School of Software Technology of Zhejiang University. His current research interests include Database Systems, Computable Knowledge Platforms, Information Retrival and Domain Language Models.
+姚畅, 博士, 浙江大学软件学院“百人计划”研究员, 博士生导师. 主要研究兴趣为分布式系统、医学领域大模型及人工智能应用，作为项目负责人主持国家自然科学基金和浙江省重点研发项目，作为核心骨干参与多项国家重点研发项目和省级重点研发项目，在国际顶级会议或期刊发表论文60余篇。

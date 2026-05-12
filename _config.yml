@@ -21,10 +21,10 @@ baidu_site_verification  : #code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Chang Yao"
-  avatar           : "images/wechat.jpg"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou China"
+  name             : "姚畅(Chang YAO)"
+  avatar           : "images/yc-2020.jpeg"
+  bio              : #"Zhejiang University"
+  location         : #"Hangzhou China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yaochang"
+  github           : #"yaochang"
   google_plus      :
   keybase          :
   instagram        :
