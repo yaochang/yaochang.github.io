@@ -1,3 +1,7 @@
+# ACM MM 2026 Grand Challenge
+
+[EgoLink Challenge 2026](https://ego-link.github.io/challenge2026/) Registration is now open. Welcome to sign up!
+
 
 # 代表性论文 
 
