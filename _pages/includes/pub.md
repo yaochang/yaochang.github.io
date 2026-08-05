@@ -193,6 +193,10 @@
 
 ## 期刊论文
 
+- \[J11\] [Towards Discriminative Multimodal Entity Linking for Ambiguous Entities via Hard Negative Clustering]()
+<br /> Yitong Zhang, Xiu Tang, Sai Wu, Qirui Yang, **Chang Yao**, Gang Chen
+<br />IEEE Transactions on Multimedia(TMM), 2026
+
 - \[J10\] [Unsupervised Brain Anomaly Detection Using Structure-Preserving Noise Generation and Multi-Scale Dual-Expert Ensembles]()
 <br /> Qianyi Yang\#, Bingcang Huang, Qin Zhou, Zhe Wang, Kai Chen, Xiu Tang, **Chang Yao**, Sai Wu
 <br />IEEE Journal of Biomedical and Health Informatics（JBHI), 2025
