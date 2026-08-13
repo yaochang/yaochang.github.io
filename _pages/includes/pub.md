@@ -193,6 +193,10 @@
 
 ## 期刊论文
 
+- \[J12\] [EACLOCK: An Efficient and Adaptive Page Replacement Algorithm to Understand Your Workload]()
+<br /> Gongsheng Yuan, Xin Li, Sai Wu, Yuean Zhu, DingYu Yang, **Chang Yao**, Xiu Tang, Gang Chen
+<br />IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026
+
 - \[J11\] [Towards Discriminative Multimodal Entity Linking for Ambiguous Entities via Hard Negative Clustering]()
 <br /> Yitong Zhang, Xiu Tang, Sai Wu, Qirui Yang, **Chang Yao**, Gang Chen
 <br />IEEE Transactions on Multimedia(TMM), 2026
