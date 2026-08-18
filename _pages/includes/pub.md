@@ -1,7 +1,3 @@
-# ACM MM 2026 Grand Challenge
-
-[EgoLink Challenge 2026](https://ego-link.github.io/challenge2026/) Registration is now open. Welcome to sign up!
-
 
 # 代表性论文 
 
@@ -240,3 +236,9 @@
 - \[J1\] [In-memory databases: Challenges and opportunities from software and hardware perspectives](https://sigmod.org/publications/sigmodRecord/1506/08_vision_Tan.pdf)
 <br /> Kian-Lee Tan, Qingchao Cai, Beng Chin Ooi, Weng-Fai Wong, **Chang Yao**, Hao Zhang
 <br />SIGMOD Record, 2015
+
+
+# ACM MM 2026 Grand Challenge
+
+[EgoLink Challenge 2026.](https://ego-link.github.io/challenge2026/) 
+
