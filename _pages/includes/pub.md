@@ -7,6 +7,14 @@
 
 ### 2026
 
+- \[44\] [Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios]()
+<br />Zhenlong Dai\#, Zhuoluo Zhao\#, Xiu Tang, Sai Wu, **Chang Yao**, Zhipeng Gao, Jingyuan Chen
+<br />The Conference on Empirical Methods in Natural Language Processing (EMNLP-Main), 2026
+
+- \[43\] [Emotion Understanding in Streaming Video with Trajectory-Aware Reliability]()
+<br />Qingsong Wang\#, Qigong Lei\#, Zitong Wang, Bohan Yu, Zhiang Dong, Jian liu, Weiqiang Wang, **Chang Yao\***, Jingyuan Chen
+<br />The Conference on Empirical Methods in Natural Language Processing (EMNLP-Main), 2026
+
 - \[42\] [*A$_3$B$_2$*: Adaptive Asymmetric Adapter for Alleviating Branch Bias in Vision-Language Image Classification with Few-Shot Learning]()
 <br />Yiyun Zhou, Zhonghua Jiang, Wenkang Han\#, Kunxi Li, Mingjing Xu, **Chang Yao**, Jingyuan Chen
 <br />The 35th International Joint Conference on Artificial Intelligence (IJCAI), 2026
