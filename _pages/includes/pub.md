@@ -197,6 +197,10 @@
 
 ## 期刊论文
 
+- \[J13\] [DADO: a LLM-based Distribution-Aligned and Diversity-Optimized Data Generator]()
+<br /> Xu Gao, Sai Wu, Xiu Tang, **Chang Yao**, Quanqing Xu, Chuanhui Yang, Gang Chen
+<br />IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026
+
 - \[J12\] [EACLOCK: An Efficient and Adaptive Page Replacement Algorithm to Understand Your Workload]()
 <br /> Gongsheng Yuan, Xin Li, Sai Wu, Yuean Zhu, DingYu Yang, **Chang Yao**, Xiu Tang, Gang Chen
 <br />IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026
