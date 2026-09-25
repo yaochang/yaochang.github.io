@@ -7,19 +7,31 @@
 
 ### 2026
 
-- \[44\] [Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios]()
+- \[C47\] [ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning]()
+<br />Zhenlong Dai\#, Xujie Song\#, Zitong Wang, Tong Niu, Jian liu, Weiqiang Wang, Xiu Tang, Sai Wu, **Chang Yao**, Jingyuan Chen
+<br />The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
+
+- \[C46\] [Auxiliary Clues Aware’s Geometry Problem Solving]()
+<br />Qigong Lei\#, Qingsong Wang\#, Wang Lin, Qianyi Yang\#, **Chang Yao**, Jingyuan Chen
+<br />The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
+
+- \[C45\] [Revisiting Decentralized Online Convex Optimization with Compressed Communication]()
+<br />Hao Zhou, Xiaoyu Wang, **Chang Yao**, Mingli Song, Yuanyu Wan
+<br />The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
+
+- \[C44\] [Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios]()
 <br />Zhenlong Dai\#, Zhuoluo Zhao\#, Xiu Tang, Sai Wu, **Chang Yao**, Zhipeng Gao, Jingyuan Chen
 <br />The Conference on Empirical Methods in Natural Language Processing (EMNLP-Main), 2026
 
-- \[43\] [Emotion Understanding in Streaming Video with Trajectory-Aware Reliability]()
+- \[C43\] [Emotion Understanding in Streaming Video with Trajectory-Aware Reliability]()
 <br />Qingsong Wang\#, Qigong Lei\#, Zitong Wang, Bohan Yu, Zhiang Dong, Jian liu, Weiqiang Wang, **Chang Yao\***, Jingyuan Chen
 <br />The Conference on Empirical Methods in Natural Language Processing (EMNLP-Main), 2026
 
-- \[42\] [*A$_3$B$_2$*: Adaptive Asymmetric Adapter for Alleviating Branch Bias in Vision-Language Image Classification with Few-Shot Learning]()
+- \[C42\] [*A$_3$B$_2$*: Adaptive Asymmetric Adapter for Alleviating Branch Bias in Vision-Language Image Classification with Few-Shot Learning]()
 <br />Yiyun Zhou, Zhonghua Jiang, Wenkang Han\#, Kunxi Li, Mingjing Xu, **Chang Yao**, Jingyuan Chen
 <br />The 35th International Joint Conference on Artificial Intelligence (IJCAI), 2026
 
-- \[41\] [Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning]()
+- \[C41\] [Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning]()
 <br />Qin Zhou, Guoyan Liang\#, Qianyi Yang\#, Jingyuan Chen, Sai Wu, **Chang Yao\***, Zhe Wang
 <br />The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026
 
