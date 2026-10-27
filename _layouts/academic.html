@@ -1,0 +1,50 @@
+{% assign asset_prefix = page.asset_prefix | default: '' %}
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light">
+    <meta name="description" content="姚畅，浙江大学软件学院研究员、博士生导师。研究方向包括分布式系统、医学领域大模型与人工智能应用。">
+    <title>{% if page.title %}{{ page.title }} · {% endif %}姚畅 Chang Yao</title>
+    <link rel="stylesheet" href="{{ asset_prefix }}assets/css/academic.css">
+  </head>
+  <body class="{% if page.url == '/' %}home-page{% else %}inner-page{% endif %}">
+    <a class="skip-link" href="#main">跳转到正文</a>
+    <header class="site-header">
+      <div class="site-header__inner container">
+        <a class="site-brand" href="{{ asset_prefix }}index.html" aria-label="姚畅个人主页，返回首页">
+          <span class="site-brand__zh">姚畅</span>
+          <span class="site-brand__en">CHANG YAO</span>
+        </a>
+        <nav class="site-nav" aria-label="主导航">
+          <a href="{{ asset_prefix }}index.html#about">关于</a>
+          <a href="{{ asset_prefix }}index.html#research">研究方向</a>
+          <a href="{{ asset_prefix }}index.html#selected-publications">部分代表性论文</a>
+          <a href="{{ asset_prefix }}index.html#teaching">教学与服务</a>
+          <a href="{{ asset_prefix }}index.html#contact">联系</a>
+          <a class="site-nav__all" href="{{ asset_prefix }}publications/index.html">论文全集 <span aria-hidden="true">↗</span></a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="container site-footer__inner">
+        <div>
+          <strong>姚畅 <span lang="en">Chang Yao</span></strong>
+          <p>浙江大学软件学院</p>
+        </div>
+        <div class="site-footer__links">
+          <a href="mailto:changy@zju.edu.cn">电子邮件</a>
+          <a href="https://github.com/yaochang" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a href="{{ asset_prefix }}publications/index.html">论文全集</a>
+        </div>
+      </div>
+      <div class="container site-footer__credit">© 2026 姚畅 · 原模板致谢：<a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank" rel="noopener noreferrer">AcadHomepage</a>。</div>
+    </footer>
+  </body>
+</html>
