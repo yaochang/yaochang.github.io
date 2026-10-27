@@ -177,8 +177,11 @@ h1, h2 { font-family: "Songti SC", "Noto Serif CJK SC", Georgia, serif; font-wei
 .inner-page main > h3 { margin: 28px 0 10px; color: var(--navy); font: 700 17px/1.3 Georgia, serif; }
 .inner-page main > ul { margin: 0; padding: 0; list-style: none; }
 .inner-page main > ul li { padding: 13px 0 14px; border-bottom: 1px solid var(--line); font-size: 14px; line-height: 1.75; }
-.inner-page main > ul li a { color: var(--navy); font-weight: 700; }
-.inner-page main > ul li a:hover { text-decoration: underline; }
+.inner-page main > ul li a { color: var(--navy); font-weight: 700; text-decoration: underline; text-decoration-color: #91aab8; text-underline-offset: 3px; }
+.inner-page main > ul li a:hover { text-decoration-color: currentColor; }
+.inner-page main > ul li a::after { content: "PDF ↗"; display: inline-block; margin-left: 8px; padding: 1px 6px; border: 1px solid #bfd0d9; border-radius: 3px; color: #476377; font: 600 10px/1.6 -apple-system, BlinkMacSystemFont, sans-serif; white-space: nowrap; text-decoration: none; vertical-align: 1px; }
+.inner-page main > ul li a.paper-reader::after { content: "全文入口 ↗"; }
+.inner-page main > ul li a.paper-record::after { content: "论文页面 ↗"; }
 .inner-page main > ul li strong { color: var(--ink); }
 .inner-page main > p { color: var(--ink-soft); }
 
