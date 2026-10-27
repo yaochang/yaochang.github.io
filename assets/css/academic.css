@@ -133,6 +133,7 @@ h1, h2 { font-family: "Songti SC", "Noto Serif CJK SC", Georgia, serif; font-wei
 .students-section { padding-block: 50px 56px; }
 .students-section .section-topline { margin-bottom: 22px; }
 .student-note { margin: 0; color: var(--ink-soft); font-size: 12px; }
+.student-intro { max-width: 900px; margin: -3px 0 24px; color: var(--ink-soft); font-size: 14px; line-height: 1.8; }
 .student-group + .student-group { margin-top: 32px; }
 .student-group__heading { display: flex; align-items: baseline; justify-content: space-between; gap: 15px; padding-bottom: 10px; border-bottom: 2px solid var(--navy); }
 .student-group__heading h3 { margin: 0; font-size: 18px; }
