@@ -1,57 +1,55 @@
 
-# 代表性论文 
-
 \* 通讯作者  \# 指导学生
 
 ## 会议论文
 
 ### 2026
 
-- \[C47\] [ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning]()
+- \[C47\] ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning
 <br />Zhenlong Dai\#, Xujie Song\#, Zitong Wang, Tong Niu, Jian liu, Weiqiang Wang, Xiu Tang, Sai Wu, **Chang Yao**, Jingyuan Chen
 <br />The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
 
-- \[C46\] [Auxiliary Clues Aware’s Geometry Problem Solving]()
+- \[C46\] Auxiliary Clues Aware’s Geometry Problem Solving
 <br />Qigong Lei\#, Qingsong Wang\#, Wang Lin, Qianyi Yang\#, **Chang Yao**, Jingyuan Chen
 <br />The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
 
-- \[C45\] [Revisiting Decentralized Online Convex Optimization with Compressed Communication]()
+- \[C45\] Revisiting Decentralized Online Convex Optimization with Compressed Communication
 <br />Hao Zhou, Xiaoyu Wang, **Chang Yao**, Mingli Song, Yuanyu Wan
 <br />The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
 
-- \[C44\] [Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios]()
+- \[C44\] Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios
 <br />Zhenlong Dai\#, Zhuoluo Zhao\#, Xiu Tang, Sai Wu, **Chang Yao**, Zhipeng Gao, Jingyuan Chen
 <br />The Conference on Empirical Methods in Natural Language Processing (EMNLP-Main), 2026
 
-- \[C43\] [Emotion Understanding in Streaming Video with Trajectory-Aware Reliability]()
+- \[C43\] Emotion Understanding in Streaming Video with Trajectory-Aware Reliability
 <br />Qingsong Wang\#, Qigong Lei\#, Zitong Wang, Bohan Yu, Zhiang Dong, Jian liu, Weiqiang Wang, **Chang Yao\***, Jingyuan Chen
 <br />The Conference on Empirical Methods in Natural Language Processing (EMNLP-Main), 2026
 
-- \[C42\] [*A$_3$B$_2$*: Adaptive Asymmetric Adapter for Alleviating Branch Bias in Vision-Language Image Classification with Few-Shot Learning]()
+- \[C42\] <a href="https://www.ijcai.org/proceedings/2026/0238.pdf"><em>A<sub>3</sub>B<sub>2</sub></em>: Adaptive Asymmetric Adapter for Alleviating Branch Bias in Vision-Language Image Classification with Few-Shot Learning</a>
 <br />Yiyun Zhou, Zhonghua Jiang, Wenkang Han\#, Kunxi Li, Mingjing Xu, **Chang Yao**, Jingyuan Chen
 <br />The 35th International Joint Conference on Artificial Intelligence (IJCAI), 2026
 
-- \[C41\] [Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning]()
+- \[C41\] [Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning](https://aclanthology.org/2026.acl-long.1718/)
 <br />Qin Zhou, Guoyan Liang\#, Qianyi Yang\#, Jingyuan Chen, Sai Wu, **Chang Yao\***, Zhe Wang
 <br />The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026
 
-- \[40\] [QBridge: Bridging Natural Language and SQL via Gold Query Rewriting with Agentic Refinement]()
+- \[40\] QBridge: Bridging Natural Language and SQL via Gold Query Rewriting with Agentic Refinement
 <br />Zhensheng Luo, Sai Wu, Yuan Qiu, **Chang Yao**, Gang Chen, Xiu Tang
 <br />The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026
 
-- \[C39\] [Bridge-SQL: Bridging Single- and Multi-Turn Text-to-SQL via Preference-Aligned Question Rewriting]()
+- \[C39\] Bridge-SQL: Bridging Single- and Multi-Turn Text-to-SQL via Preference-Aligned Question Rewriting
 <br />Xuhang Zhu, Xiu Tang, Sai Wu, Yixuan Tang, Haobo Wang, **Chang Yao**, Ruichen Xia, Gang Chen
 <br />31st International Conference on Database Systems for Advanced Applications (DASFAA), 2026
 
-- \[C38\] [Causal-Steer: Disentangled Continuous Style Control without Parallel Corpora]()
+- \[C38\] Causal-Steer: Disentangled Continuous Style Control without Parallel Corpora
 <br />Qingsong Wang\#, **Chang Yao**, Jingyuan Chen
 <br />The Fourteenth International Conference on Learning Representations (ICLR), 2026
 
-- \[C37\] [Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug?]()
+- \[C37\] Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug?
 <br />Kunyi Li, Sai Wu, Xiu Tang, **Chang Yao**, Songhao Bu, Quanqing Xu, Gang Chen
 <br />The ACM International Conference on the Foundations of Software Engineering (FSE), 2026
 
-- \[C36\] [Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement]()
+- \[C36\] Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement
 <br />Zhenlong Dai\#, Zhuoluo Zhao\#, Hengning Wang, Xiu Tang, Sai Wu, **Chang Yao\***, Zhipeng Gao, Jingyuan Chen
 <br />The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026
 
@@ -59,7 +57,7 @@
 
 ### 2025
 
-- \[C35\] [SALoM: Structure Aware Temporal Graph Networks with Long-Short Memory Updater]()
+- \[C35\] SALoM: Structure Aware Temporal Graph Networks with Long-Short Memory Updater
 <br />Hanwen Liu, Longjiao Zhang, Rui Wang, Tongya Zheng, Sai Wu, **Chang Yao**, Mingli Song
 <br />The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
 
@@ -71,7 +69,7 @@
 <br />Xinpeng Ti, Wentao Ye, Zhifang Zhang, Junbo Zhao, **Chang Yao**, Lei Feng, Haobo Wang
 <br />The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP-Findinds), 2025
 
-- \[C32\] [Show and Polish: Reference-Guided Identity Preservation in Face Video Restoration]()
+- \[C32\] Show and Polish: Reference-Guided Identity Preservation in Face Video Restoration
 <br />WenKang Han\#, Wang Lin, Yiyun Zhou, Qi Liu\#, Shulei Wang, **Chang Yao**, Jingyuan Chen
 <br />The 33rd ACM International Conference on Multimedia (MM), 2025
 
@@ -119,7 +117,7 @@
 <br />Guoyan Liang\#, Qin Zhou, Zhe Wang, Jingyuan Chen, Lin Gu, **Chang Yao\***, Sai Wu, Bingcang Huang, Kai Chen
 <br />The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
 
-- \[C20\] [Less is More: Adaptive Program Repair with Bug Localization and Preference Learning](https://dl.acm.org/doi/10.1609/aaai.v39i1.31988)
+- \[C20\] [Less is More: Adaptive Program Repair with Bug Localization and Preference Learning](https://ojs.aaai.org/index.php/AAAI/article/view/31988)
 <br />Zhenlong Dai\#, Bingrui Chen, Zhuoluo Zhao\#, Xiu Tang, Sai Wu, **Chang Yao**, Zhipeng Gao, Jingyuan Chen
 <br />The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
 
@@ -174,7 +172,7 @@
 <br />Lin Long, Haobo Wang, Zhijie Jiang, Lei Feng, **Chang Yao\***, Gang Chen, Junbo Zhao
 <br />Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
-- \[C7\] [Quantum Storage Design for Tables in RDBMS]()
+- \[C7\] Quantum Storage Design for Tables in RDBMS
 <br />Tuodu Li, Gongsheng Yuan\*, **Chang Yao\***, Meng Shi, Ziyue Wang, Ling Qian, Jiaheng Lu
 <br />VLDB 2024 Workshop: The Second International Workshop on Quantum Data Science and Management (QDSM’24).
 
@@ -209,19 +207,19 @@
 
 ## 期刊论文
 
-- \[J13\] [DADO: a LLM-based Distribution-Aligned and Diversity-Optimized Data Generator]()
+- \[J13\] DADO: a LLM-based Distribution-Aligned and Diversity-Optimized Data Generator
 <br /> Xu Gao, Sai Wu, Xiu Tang, **Chang Yao**, Quanqing Xu, Chuanhui Yang, Gang Chen
 <br />IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026
 
-- \[J12\] [EACLOCK: An Efficient and Adaptive Page Replacement Algorithm to Understand Your Workload]()
+- \[J12\] EACLOCK: An Efficient and Adaptive Page Replacement Algorithm to Understand Your Workload
 <br /> Gongsheng Yuan, Xin Li, Sai Wu, Yuean Zhu, DingYu Yang, **Chang Yao**, Xiu Tang, Gang Chen
 <br />IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026
 
-- \[J11\] [Towards Discriminative Multimodal Entity Linking for Ambiguous Entities via Hard Negative Clustering]()
+- \[J11\] Towards Discriminative Multimodal Entity Linking for Ambiguous Entities via Hard Negative Clustering
 <br /> Yitong Zhang, Xiu Tang, Sai Wu, Qirui Yang, **Chang Yao**, Gang Chen
 <br />IEEE Transactions on Multimedia(TMM), 2026
 
-- \[J10\] [Unsupervised Brain Anomaly Detection Using Structure-Preserving Noise Generation and Multi-Scale Dual-Expert Ensembles]()
+- \[J10\] Unsupervised Brain Anomaly Detection Using Structure-Preserving Noise Generation and Multi-Scale Dual-Expert Ensembles
 <br /> Qianyi Yang\#, Bingcang Huang, Qin Zhou, Zhe Wang, Kai Chen, Xiu Tang, **Chang Yao**, Sai Wu
 <br />IEEE Journal of Biomedical and Health Informatics（JBHI), 2025
 
@@ -229,11 +227,11 @@
 <br /> Xu Gao, Xiu Tang\*, **Chang Yao\***, Sai Wu, Gongsheng Yuan, Wenchao Zhou, Feifei Li, Gang Chen.
 <br />IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025
 
-- \[J8\] [JIT编译技术在数据库系统中的若干研究]()
+- \[J8\] JIT编译技术在数据库系统中的若干研究
 <br /> 袁巩生, 杜晨路, 朱阅岸, 陈育兴, 唐秀, **姚畅**, 陈刚
 <br />《软件学报》, 2025
 
-- \[J7\] [医学大模型与多模态数据融合在智慧医疗中的机会、挑战与实践]()
+- \[J7\] 医学大模型与多模态数据融合在智慧医疗中的机会、挑战与实践
 <br />**姚畅**, 王贵宣, 相鹏, 陈刚
 <br />《中国卫生信息管理杂志》, 2025
 
@@ -262,7 +260,7 @@
 <br />SIGMOD Record, 2015
 
 
-# ACM MM 2026 Grand Challenge
+## ACM MM 2026 Grand Challenge
 
 [EgoLink Challenge 2026.](https://ego-link.github.io/challenge2026/) 
 
