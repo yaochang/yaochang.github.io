@@ -71,42 +71,42 @@ redirect_from:
       <article class="publication-item">
         <p class="publication-item__year">2026 <span>NeurIPS</span></p>
         <div>
-          <h3>ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning</h3>
+          <h3><a href="https://arxiv.org/pdf/2609.30906" target="_blank" rel="noopener noreferrer">ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning <span aria-hidden="true">↗</span></a></h3>
           <p class="publication-item__authors">Zhenlong Dai, Xujie Song, Zitong Wang, Tong Niu, Jian liu, Weiqiang Wang, Xiu Tang, Sai Wu, <strong>Chang Yao</strong>, Jingyuan Chen</p>
         </div>
       </article>
       <article class="publication-item">
         <p class="publication-item__year">2026 <span>EMNLP</span></p>
         <div>
-          <h3>Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios</h3>
+          <h3><a href="https://aclanthology.org/2026.emnlp-main.2134.pdf" target="_blank" rel="noopener noreferrer">Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios <span aria-hidden="true">↗</span></a></h3>
           <p class="publication-item__authors">Zhenlong Dai, Zhuoluo Zhao, Xiu Tang, Sai Wu, <strong>Chang Yao</strong>, Zhipeng Gao, Jingyuan Chen</p>
         </div>
       </article>
       <article class="publication-item">
         <p class="publication-item__year">2026 <span>EMNLP</span></p>
         <div>
-          <h3>Emotion Understanding in Streaming Video with Trajectory-Aware Reliability</h3>
+          <h3><a href="https://aclanthology.org/2026.emnlp-main.554.pdf" target="_blank" rel="noopener noreferrer">Emotion Understanding in Streaming Video with Trajectory-Aware Reliability <span aria-hidden="true">↗</span></a></h3>
           <p class="publication-item__authors">Qingsong Wang, Qigong Lei, Zitong Wang, Bohan Yu, Zhiang Dong, Jian liu, Weiqiang Wang, <strong>Chang Yao</strong>, Jingyuan Chen</p>
         </div>
       </article>
       <article class="publication-item">
         <p class="publication-item__year">2026 <span>ACL</span></p>
         <div>
-          <h3><a href="https://aclanthology.org/2026.acl-long.1718/" target="_blank" rel="noopener noreferrer">Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning <span aria-hidden="true">↗</span></a></h3>
+          <h3><a href="https://aclanthology.org/2026.acl-long.1718.pdf" target="_blank" rel="noopener noreferrer">Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning <span aria-hidden="true">↗</span></a></h3>
           <p class="publication-item__authors">Qin Zhou, Guoyan Liang, Qianyi Yang, Jingyuan Chen, Sai Wu, <strong>Chang Yao</strong>, Zhe Wang</p>
         </div>
       </article>
       <article class="publication-item">
         <p class="publication-item__year">2026 <span>ICLR</span></p>
         <div>
-          <h3>Causal-Steer: Disentangled Continuous Style Control without Parallel Corpora</h3>
+          <h3><a href="https://proceedings.iclr.cc/paper_files/paper/2026/file/37771cc0be272368102a37f202bb88d8-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">Causal-Steer: Disentangled Continuous Style Control without Parallel Corpora <span aria-hidden="true">↗</span></a></h3>
           <p class="publication-item__authors">Qingsong Wang, <strong>Chang Yao</strong>, Jingyuan Chen</p>
         </div>
       </article>
       <article class="publication-item">
         <p class="publication-item__year">2026 <span>AAAI</span></p>
         <div>
-          <h3>Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement</h3>
+          <h3><a href="https://ojs.aaai.org/index.php/AAAI/article/download/40300/44261" target="_blank" rel="noopener noreferrer">Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement <span aria-hidden="true">↗</span></a></h3>
           <p class="publication-item__authors">Zhenlong Dai, Zhuoluo Zhao, Hengning Wang, Xiu Tang, Sai Wu, <strong>Chang Yao</strong>, Zhipeng Gao, Jingyuan Chen</p>
         </div>
       </article>
@@ -120,21 +120,21 @@ redirect_from:
       <article class="publication-item">
         <p class="publication-item__year">2025 <span>AAAI</span></p>
         <div>
-          <h3><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32545" target="_blank" rel="noopener noreferrer">Semantic-guided Masked Mutual Learning for Multi-modal Brain Tumor Segmentation with Arbitrary Missing Modalities <span aria-hidden="true">↗</span></a></h3>
+          <h3><a href="https://ojs.aaai.org/index.php/AAAI/article/download/32545/34700" target="_blank" rel="noopener noreferrer">Semantic-guided Masked Mutual Learning for Multi-modal Brain Tumor Segmentation with Arbitrary Missing Modalities <span aria-hidden="true">↗</span></a></h3>
           <p class="publication-item__authors">Guoyan Liang, Qin Zhou, Zhe Wang, Jingyuan Chen, Lin Gu, <strong>Chang Yao</strong>, Sai Wu, Bingcang Huang, Kai Chen</p>
         </div>
       </article>
       <article class="publication-item">
         <p class="publication-item__year">2025 <span>AAAI</span></p>
         <div>
-          <h3><a href="https://ojs.aaai.org/index.php/AAAI/article/view/31988" target="_blank" rel="noopener noreferrer">Less is More: Adaptive Program Repair with Bug Localization and Preference Learning <span aria-hidden="true">↗</span></a></h3>
+          <h3><a href="https://ojs.aaai.org/index.php/AAAI/article/download/31988/34143" target="_blank" rel="noopener noreferrer">Less is More: Adaptive Program Repair with Bug Localization and Preference Learning <span aria-hidden="true">↗</span></a></h3>
           <p class="publication-item__authors">Zhenlong Dai, Bingrui Chen, Zhuoluo Zhao, Xiu Tang, Sai Wu, <strong>Chang Yao</strong>, Zhipeng Gao, Jingyuan Chen</p>
         </div>
       </article>
       <article class="publication-item">
         <p class="publication-item__year">2024 <span>ACL</span></p>
         <div>
-          <h3><a href="https://aclanthology.org/2024.acl-long.207" target="_blank" rel="noopener noreferrer">MPCoder:Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning <span aria-hidden="true">↗</span></a></h3>
+          <h3><a href="https://aclanthology.org/2024.acl-long.207.pdf" target="_blank" rel="noopener noreferrer">MPCoder: Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning <span aria-hidden="true">↗</span></a></h3>
           <p class="publication-item__authors">Zhenlong Dai, <strong>Chang Yao</strong>, Wenkang Han, Ying Yuan, Zhipeng Gao, Jingyuan Chen</p>
         </div>
       </article>
@@ -177,6 +177,7 @@ redirect_from:
       </div>
       <p class="student-note">* 表示共同第一作者</p>
     </div>
+    <p class="student-intro">课题组每年招生名额充足，但是因为我个人的时间有限，为了保证与同学的合作质量，每年只招收 2–3 名学生。因此，希望同学自驱且主动，有清晰的目标，我们一起推动这个世界进步一点点。</p>
     <div class="student-group">
       <div class="student-group__heading">
         <h3>在读学生</h3>
