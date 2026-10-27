@@ -9,7 +9,7 @@
 <br />Zhenlong Dai\#, Xujie Song\#, Zitong Wang, Tong Niu, Jian liu, Weiqiang Wang, Xiu Tang, Sai Wu, **Chang Yao**, Jingyuan Chen
 <br />The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
 
-- \[C46\] [Auxiliary Clues Aware’s Geometry Problem Solving](https://openreview.net/forum?id=tKFBJFZMma)
+- \[C46\] [Auxiliary Clues Aware’s Geometry Problem Solving](https://openreview.net/pdf?id=tKFBJFZMma)
 <br />Qigong Lei\#, Qingsong Wang\#, Wang Lin, Qianyi Yang\#, **Chang Yao**, Jingyuan Chen
 <br />The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
 
@@ -37,7 +37,7 @@
 <br />Zhensheng Luo, Sai Wu, Yuan Qiu, **Chang Yao**, Gang Chen, Xiu Tang
 <br />The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026
 
-- \[C39\] [Bridge-SQL: Bridging Single- and Multi-Turn Text-to-SQL via Preference-Aligned Question Rewriting](https://link.springer.com/chapter/10.1007/978-981-92-0372-7_8)
+- \[C39\] [Bridge-SQL: Bridging Single- and Multi-Turn Text-to-SQL via Preference-Aligned Question Rewriting](https://link.springer.com/chapter/10.1007/978-981-92-0372-7_8){: .paper-record }
 <br />Xuhang Zhu, Xiu Tang, Sai Wu, Yixuan Tang, Haobo Wang, **Chang Yao**, Ruichen Xia, Gang Chen
 <br />31st International Conference on Database Systems for Advanced Applications (DASFAA), 2026
 
@@ -45,7 +45,7 @@
 <br />Qingsong Wang\#, **Chang Yao**, Jingyuan Chen
 <br />The Fourteenth International Conference on Learning Representations (ICLR), 2026
 
-- \[C37\] [Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug?](https://github.com/lucky20020327/DeepK/blob/main/Debugging_Engine_Enhanced_by_Prior_Knowledge.pdf)
+- \[C37\] [Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug?](https://github.com/lucky20020327/DeepK/blob/main/Debugging_Engine_Enhanced_by_Prior_Knowledge.pdf){: .paper-reader }
 <br />Kunyi Li, Sai Wu, Xiu Tang, **Chang Yao**, Songhao Bu, Quanqing Xu, Gang Chen
 <br />The ACM International Conference on the Foundations of Software Engineering (FSE), 2026
 
@@ -144,7 +144,7 @@
 <br />Yuanyu Wan, **Chang Yao**, Mingli Song, Lijun Zhang
 <br />The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS) 2024
 
-- \[C14\] [CoMAL: Contrastive Active Learning for Multi-Label Text Classification](https://dl.acm.org/doi/abs/10.1145/3637528.3671754)
+- \[C14\] [CoMAL: Contrastive Active Learning for Multi-Label Text Classification](https://dl.acm.org/doi/abs/10.1145/3637528.3671754){: .paper-record }
 <br />Cheng Peng, Haobo Wang, Ke Chen, Lidan Shou, **Chang Yao**, Runze Wu, Gang Chen
 <br />30th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
 
@@ -160,7 +160,7 @@
 <br />Guoyan Liang\#, Qin Zhou, Jingyuan Chen, Zhe Wang\*, **Chang Yao\***
 <br />The 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024
 
-- \[C10\] [FedPAM: Federated Personalized Augmentation Model for Text-to-Image Retrieval](https://dl.acm.org/doi/10.1145/3652583.3657627) 
+- \[C10\] [FedPAM: Federated Personalized Augmentation Model for Text-to-Image Retrieval](https://dl.acm.org/doi/10.1145/3652583.3657627){: .paper-record }
 <br />Yueying Feng\#, Fan Ma, Wang Lin, **Chang Yao**, Jingyuan Chen, Yi Yang
 <br />The 14th International Conference on Multimedia Retrieval (ICMR), 2024
 
@@ -184,66 +184,66 @@
 <br />Gongsheng Yuan, Jiaheng Lu, Yuxing Chen, Sai Wu, **Chang Yao**, Zhengtong Yan, Tuodu Li, Gang Chen
 <br />VLDB 2023 Workshop: International Workshop on Quantum Data Science and Management (QDSM'23)
 
-- \[C5\] [SynBERT: Chinese Synonym Discovery on Privacy-Constrain Medical Terms with Pre-trained BERT](https://link.springer.com/chapter/10.1007/978-3-031-25158-0_25)
+- \[C5\] [SynBERT: Chinese Synonym Discovery on Privacy-Constrain Medical Terms with Pre-trained BERT](https://link.springer.com/chapter/10.1007/978-3-031-25158-0_25){: .paper-record }
 <br />Lingze Zeng, **Chang Yao\***, Meihui Zhang, Zhongle Xie
 <br />APWeb-WAIM, 2023
 
-- \[C4\] [Spatial-temporal correlation modeling for motion prediction](https://ieeexplore.ieee.org/abstract/document/9859933)
+- \[C4\] [Spatial-temporal correlation modeling for motion prediction](https://ieeexplore.ieee.org/abstract/document/9859933){: .paper-record }
 <br />Yingying Jiao, Haipeng Chen, **Chang Yao**, Pengxiang Su, Chong Fu, Xiang Wang
 <br />IEEE International Conference on Multimedia and Expo (ICME), 2022
 
-- \[C3\] [ELDA: Learning explicit dual-interactions for healthcare analytics](https://www.comp.nus.edu.sg/~ooibc/elda-icde22.pdf)
+- \[C3\] [ELDA: Learning explicit dual-interactions for healthcare analytics](https://doi.org/10.1109/ICDE53745.2022.00034){: .paper-record }
 <br />Qingpeng Cai, Kaiping Zheng, Beng Chin Ooi, Wei Wang, **Chang Yao**
 <br />Proceedings of the 38th IEEE International Conference on Data Engineering (ICDE), 2022
 
-- \[C2\] [Malware Detection by Exploiting Deep Learning over Binary Programs](https://ieeexplore.ieee.org/abstract/document/9412227)
+- \[C2\] [Malware Detection by Exploiting Deep Learning over Binary Programs](https://ieeexplore.ieee.org/abstract/document/9412227){: .paper-record }
 <br />Panpan Qi, Zhaoqi Zhang, Wei Wang, **Chang Yao**
 <br />International Conference on Pattern Recognition(ICPR), 2020
 
-- \[C1\] [Adaptive logging: Optimizing logging and recovery costs in distributed in-memory databases](https://www.comp.nus.edu.sg/~ooibc/alogging-sigmod16.pdf)
+- \[C1\] [Adaptive logging: Optimizing logging and recovery costs in distributed in-memory databases](https://www.cs.albany.edu/~jhh/courses/readings/yao.sigmod16.pdf)
 <br />**Chang Yao**, Divyakant Agrawal, Gang Chen, Beng Chin Ooi, Sai Wu
 <br />Proceedings of the ACM International Conference on Management of Data (SIGMOD), 2016
 
 
 ## 期刊论文
 
-- \[J13\] [DADO: a LLM-based Distribution-Aligned and Diversity-Optimized Data Generator](https://doi.org/10.1109/TKDE.2026.3736076)
+- \[J13\] [DADO: a LLM-based Distribution-Aligned and Diversity-Optimized Data Generator](https://doi.org/10.1109/TKDE.2026.3736076){: .paper-record }
 <br /> Xu Gao, Sai Wu, Xiu Tang, **Chang Yao**, Quanqing Xu, Chuanhui Yang, Gang Chen
 <br />IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026
 
-- \[J12\] [EACLOCK: An Efficient and Adaptive Page Replacement Algorithm to Understand Your Workload](https://doi.org/10.1109/TKDE.2026.3724159)
+- \[J12\] [EACLOCK: An Efficient and Adaptive Page Replacement Algorithm to Understand Your Workload](https://doi.org/10.1109/TKDE.2026.3724159){: .paper-record }
 <br /> Gongsheng Yuan, Xin Li, Sai Wu, Yuean Zhu, DingYu Yang, **Chang Yao**, Xiu Tang, Gang Chen
 <br />IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026
 
-- \[J11\] [Towards Discriminative Multimodal Entity Linking for Ambiguous Entities via Hard Negative Clustering](https://doi.org/10.1109/TMM.2026.3733559)
+- \[J11\] [Towards Discriminative Multimodal Entity Linking for Ambiguous Entities via Hard Negative Clustering](https://doi.org/10.1109/TMM.2026.3733559){: .paper-record }
 <br /> Yitong Zhang, Xiu Tang, Sai Wu, Qirui Yang, **Chang Yao**, Gang Chen
 <br />IEEE Transactions on Multimedia(TMM), 2026
 
-- \[J8\] [JIT编译技术在可插拔存储引擎数据库中的应用](https://doi.org/10.13328/j.cnki.jos.007467)
+- \[J8\] [JIT编译技术在可插拔存储引擎数据库中的应用](https://doi.org/10.13328/j.cnki.jos.007467){: .paper-record }
 <br /> 袁巩生, 杜晨路, 朱阅岸, 陈育兴, 唐秀, **姚畅**, 陈刚
 <br />《软件学报》, 2026
 
-- \[J10\] [Unsupervised Brain Anomaly Detection Using Structure-Preserving Noise Generation and Multi-Scale Dual-Expert Ensembles](https://doi.org/10.1109/JBHI.2025.3633279)
+- \[J10\] [Unsupervised Brain Anomaly Detection Using Structure-Preserving Noise Generation and Multi-Scale Dual-Expert Ensembles](https://doi.org/10.1109/JBHI.2025.3633279){: .paper-record }
 <br /> Qianyi Yang\#, Bingcang Huang, Qin Zhou, Zhe Wang, Kai Chen, Xiu Tang, **Chang Yao**, Sai Wu
 <br />IEEE Journal of Biomedical and Health Informatics（JBHI), 2025
 
-- \[J9\] [OMCR: An Online Multivariate Forecaster for Cloud Resource Management](https://ieeexplore.ieee.org/document/11197034)
+- \[J9\] [OMCR: An Online Multivariate Forecaster for Cloud Resource Management](https://ieeexplore.ieee.org/document/11197034){: .paper-record }
 <br /> Xu Gao, Xiu Tang\*, **Chang Yao\***, Sai Wu, Gongsheng Yuan, Wenchao Zhou, Feifei Li, Gang Chen.
 <br />IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025
 
-- \[J7\] [医学大模型与多模态数据融合在智慧医疗中的机会、挑战与实践](https://wsgl.cbpt.cnki.net/portal/journal/portal/client/paper/f95a5e31c618182ab23f19a4aa223723)
+- \[J7\] [医学大模型与多模态数据融合在智慧医疗中的机会、挑战与实践](https://wsgl.cbpt.cnki.net/portal/journal/portal/client/paper/f95a5e31c618182ab23f19a4aa223723){: .paper-reader }
 <br />**姚畅**, 王贵宣, 相鹏, 陈刚
 <br />《中国卫生信息管理杂志》, 2025
 
-- \[J6\] [A Quantum Framework for Combinatorial Optimization Problem over Graphs](https://link.springer.com/article/10.1007/s41019-024-00269-4)
+- \[J6\] [A Quantum Framework for Combinatorial Optimization Problem over Graphs](https://link.springer.com/content/pdf/10.1007/s41019-024-00269-4.pdf)
 <br />Meng Shi, Sai Wu, Ying Li, Gongsheng Yuan, **Chang Yao**, Gang Chen
 <br />Data Science and Engineering (DSE), 2025
 
-- \[J5\] [Boosting GNN-based Link Prediction via PU-AUC Optimization](https://ieeexplore.ieee.org/document/10869638/)
+- \[J5\] [Boosting GNN-based Link Prediction via PU-AUC Optimization](https://ieeexplore.ieee.org/document/10869638/){: .paper-record }
 <br />Yuren Mao, Yu Hao, Xin Cao, Yunjun Gao\*, **Chang Yao\***, Xuemin Lin
 <br />IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025
 
-- \[J4\] [Learning Label-Adaptive Representation for Large-Scale Multi-Label Text Classification](https://ieeexplore.ieee.org/abstract/document/10508392/)
+- \[J4\] [Learning Label-Adaptive Representation for Large-Scale Multi-Label Text Classification](https://ieeexplore.ieee.org/abstract/document/10508392/){: .paper-record }
 <br />Cheng Peng, Haobo Wang, Jue Wang, Lidan Shou, Ke Chen, Gang Chen, **Chang Yao\***
 <br />IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP), 2024
 
@@ -251,7 +251,7 @@
 <br /> **Chang Yao**, Meihui Zhang, Qian Lin, Beng Chin Ooi, Jiatao Xu
 <br />The VLDB Journal (VLDBJ), 2018 
 
-- \[J2\] [Exploiting single-threaded model in multi-core in-memory systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7486988)
+- \[J2\] [Exploiting single-threaded model in multi-core in-memory systems](https://www.comp.nus.edu.sg/~wongwf/papers/TKDE16.pdf)
 <br /> **Chang Yao**, Divyakant Agrawal, Gang Chen, Qian Lin, Beng Chin Ooi, Weng-Fai Wong, Meihui Zhang
 <br />IEEE Transactions on Knowledge and Data Engineering (TKDE), 2016 
 
