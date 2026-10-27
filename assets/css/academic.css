@@ -130,6 +130,19 @@ h1, h2 { font-family: "Songti SC", "Noto Serif CJK SC", Georgia, serif; font-wei
 .teaching-panel li { padding: 8px 0; border-bottom: 1px solid var(--line); }
 .teaching-panel p { max-width: 500px; margin-bottom: 13px; }
 .teaching-panel__note { color: #697b87; font-size: 13px; }
+.students-section { padding-block: 50px 56px; }
+.students-section .section-topline { margin-bottom: 22px; }
+.student-note { margin: 0; color: var(--ink-soft); font-size: 12px; }
+.student-group + .student-group { margin-top: 32px; }
+.student-group__heading { display: flex; align-items: baseline; justify-content: space-between; gap: 15px; padding-bottom: 10px; border-bottom: 2px solid var(--navy); }
+.student-group__heading h3 { margin: 0; font-size: 18px; }
+.student-list { margin: 0; padding: 0; list-style: none; }
+.student-row { display: grid; grid-template-columns: 88px 225px minmax(0, 1fr); align-items: baseline; gap: 16px; padding: 10px 0; border-bottom: 1px solid var(--line); font-size: 14px; line-height: 1.6; }
+.student-row__name { color: var(--ink); font-size: 15px; }
+.student-row__stage { color: var(--ink-soft); }
+.student-row__detail { color: var(--ink-soft); }
+.student-row__destination { color: var(--ink); font-weight: 600; }
+.student-row__achievement { margin-left: 14px; }
 .contact-section { scroll-margin-top: 76px; padding-block: 48px; background: var(--navy-deep); color: #fff; }
 .contact-section__inner { display: flex; align-items: end; justify-content: space-between; gap: 35px; }
 .contact-section .section-number { color: #dec5a4; }
@@ -200,6 +213,13 @@ h1, h2 { font-family: "Songti SC", "Noto Serif CJK SC", Georgia, serif; font-wei
   .publication-item__year span { display: inline; margin: 0 0 0 8px; }
   .publication-item h3 { font-size: 18px; }
   .teaching-grid { gap: 24px; }
+  .students-section { padding-block: 42px 48px; }
+  .student-note { margin-top: 8px; }
+  .student-group + .student-group { margin-top: 26px; }
+  .student-row { grid-template-columns: 70px minmax(0, 1fr); column-gap: 12px; row-gap: 2px; padding-block: 11px; font-size: 13px; }
+  .student-row__name { font-size: 14px; }
+  .student-row__detail { grid-column: 1 / -1; }
+  .student-row__achievement { margin-left: 10px; }
   .contact-section { scroll-margin-top: 96px; padding-block: 42px; }
   .contact-section__inner { display: block; }
   .contact-section a { display: inline-block; margin-top: 14px; font-size: 16px; }
