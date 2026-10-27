@@ -44,7 +44,11 @@
           <a href="{{ asset_prefix }}publications/index.html">论文全集</a>
         </div>
       </div>
-      <div class="container site-footer__credit">© 2026 姚畅 · 原模板致谢：<a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank" rel="noopener noreferrer">AcadHomepage</a>。</div>
+      <div class="container site-footer__credit">
+        <span>© 2026 姚畅 · 原模板致谢：<a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank" rel="noopener noreferrer">AcadHomepage</a>。</span>
+        {% if page.url == '/' %}<span class="site-footer__visits">本站累计访问 <span id="busuanzi_site_pv" aria-live="polite">—</span> 次</span>{% endif %}
+      </div>
     </footer>
+    <script defer src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js"></script>
   </body>
 </html>
