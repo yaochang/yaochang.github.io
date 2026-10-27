@@ -195,7 +195,7 @@ redirect_from:
     <div class="student-group">
       <div class="student-group__heading"><h3>毕业学生</h3></div>
       <ul class="student-list">
-        <li class="student-row"><strong class="student-row__name">王庆松</strong><span class="student-row__stage">2024级硕士</span><span class="student-row__detail"><span class="student-row__destination">浙江大学人工智能学院读博</span><span class="student-row__achievement">EMNLP'26、ICLR'26、CVPR'25（*）、EMNLP'25（Findings）</span></span></li>
+        <li class="student-row"><strong class="student-row__name">王庆松</strong><span class="student-row__stage">2024–2026 · 硕士阶段（本课题组）</span><span class="student-row__detail"><span class="student-row__destination">2027年起转入浙江大学人工智能学院硕转博</span><span class="student-row__achievement">EMNLP'26、ICLR'26、CVPR'25（*）、EMNLP'25（Findings）</span></span></li>
         <li class="student-row"><strong class="student-row__name">梁国艳</strong><span class="student-row__stage">2022–2026 · 博士研究生</span><span class="student-row__detail"><span class="student-row__destination">联想研究院（北京）</span><span class="student-row__achievement">IJCAI'24、AAAI'25、ICCV'25（*）、ACL'26（*）</span></span></li>
         <li class="student-row"><strong class="student-row__name">韩文康</strong><span class="student-row__stage">2023–2026 · 硕士研究生</span><span class="student-row__detail"><span class="student-row__destination">腾讯（深圳）</span><span class="student-row__achievement">IJCAI'25、MM'25</span></span></li>
         <li class="student-row"><strong class="student-row__name">冯玥瑛</strong><span class="student-row__stage">2023–2026 · 硕士研究生</span><span class="student-row__detail"><span class="student-row__destination">腾讯（北京）</span><span class="student-row__achievement">ICMR'24、NeurIPS'24（*）</span></span></li>
