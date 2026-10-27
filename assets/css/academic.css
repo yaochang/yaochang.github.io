@@ -159,6 +159,8 @@ h1, h2 { font-family: "Songti SC", "Noto Serif CJK SC", Georgia, serif; font-wei
 .site-footer p { margin: 6px 0 0; }
 .site-footer__links { display: flex; flex-wrap: wrap; align-content: start; gap: 20px; }
 .site-footer__credit { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px 20px; margin-top: 24px; padding-top: 13px; border-top: 1px solid #d3dde1; color: #7b8a94; font-size: 11px; }
+.site-footer__maintenance { margin-top: 8px; color: #7b8a94; font-size: 11px; }
+.site-footer__maintenance p { margin: 0; }
 .site-footer__credit a { color: #586e7e; text-decoration: underline; }
 .site-footer__visits { white-space: nowrap; }
 .site-footer__visits span { color: #50616d; font-variant-numeric: tabular-nums; }
