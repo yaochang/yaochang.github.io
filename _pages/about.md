@@ -51,7 +51,7 @@ redirect_from:
       <article class="research-area">
         <span class="research-area__index">03</span>
         <h3>大模型与智能应用</h3>
-        <p>探索代码生成、程序修复、模型协作与多模态理解。</p>
+        <p>探索代码生成、程序修复、模型协作、多模态理解与金融量化。</p>
         <span class="research-area__en" lang="en">Foundation Models &amp; Applications</span>
       </article>
     </div>
@@ -69,70 +69,70 @@ redirect_from:
     </div>
     <div class="publication-list">
       <article class="publication-item">
-        <p class="publication-item__year">2026 <span>C47 · NeurIPS</span></p>
+        <p class="publication-item__year">2026 <span>NeurIPS</span></p>
         <div>
           <h3>ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning</h3>
           <p class="publication-item__authors">Zhenlong Dai, Xujie Song, Zitong Wang, Tong Niu, Jian liu, Weiqiang Wang, Xiu Tang, Sai Wu, <strong>Chang Yao</strong>, Jingyuan Chen</p>
         </div>
       </article>
       <article class="publication-item">
-        <p class="publication-item__year">2026 <span>C44 · EMNLP</span></p>
+        <p class="publication-item__year">2026 <span>EMNLP</span></p>
         <div>
           <h3>Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios</h3>
           <p class="publication-item__authors">Zhenlong Dai, Zhuoluo Zhao, Xiu Tang, Sai Wu, <strong>Chang Yao</strong>, Zhipeng Gao, Jingyuan Chen</p>
         </div>
       </article>
       <article class="publication-item">
-        <p class="publication-item__year">2026 <span>C43 · EMNLP</span></p>
+        <p class="publication-item__year">2026 <span>EMNLP</span></p>
         <div>
           <h3>Emotion Understanding in Streaming Video with Trajectory-Aware Reliability</h3>
           <p class="publication-item__authors">Qingsong Wang, Qigong Lei, Zitong Wang, Bohan Yu, Zhiang Dong, Jian liu, Weiqiang Wang, <strong>Chang Yao</strong>, Jingyuan Chen</p>
         </div>
       </article>
       <article class="publication-item">
-        <p class="publication-item__year">2026 <span>C41 · ACL</span></p>
+        <p class="publication-item__year">2026 <span>ACL</span></p>
         <div>
           <h3><a href="https://aclanthology.org/2026.acl-long.1718/" target="_blank" rel="noopener noreferrer">Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning <span aria-hidden="true">↗</span></a></h3>
           <p class="publication-item__authors">Qin Zhou, Guoyan Liang, Qianyi Yang, Jingyuan Chen, Sai Wu, <strong>Chang Yao</strong>, Zhe Wang</p>
         </div>
       </article>
       <article class="publication-item">
-        <p class="publication-item__year">2026 <span>C38 · ICLR</span></p>
+        <p class="publication-item__year">2026 <span>ICLR</span></p>
         <div>
           <h3>Causal-Steer: Disentangled Continuous Style Control without Parallel Corpora</h3>
           <p class="publication-item__authors">Qingsong Wang, <strong>Chang Yao</strong>, Jingyuan Chen</p>
         </div>
       </article>
       <article class="publication-item">
-        <p class="publication-item__year">2026 <span>C36 · AAAI</span></p>
+        <p class="publication-item__year">2026 <span>AAAI</span></p>
         <div>
           <h3>Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement</h3>
           <p class="publication-item__authors">Zhenlong Dai, Zhuoluo Zhao, Hengning Wang, Xiu Tang, Sai Wu, <strong>Chang Yao</strong>, Zhipeng Gao, Jingyuan Chen</p>
         </div>
       </article>
       <article class="publication-item">
-        <p class="publication-item__year">2025 <span>C31 · ICCV</span></p>
+        <p class="publication-item__year">2025 <span>ICCV</span></p>
         <div>
           <h3><a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_Learnable_Retrieval_Enhanced_Visual-Text_Alignment_and_Fusion_for_Radiology_Report_ICCV_2025_paper.pdf" target="_blank" rel="noopener noreferrer">Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation <span aria-hidden="true">↗</span></a></h3>
           <p class="publication-item__authors">Qin Zhou, Guoyan Liang, Xindi Li, Jingyuan Chen, Zhe Wang, <strong>Chang Yao</strong>, Sai Wu</p>
         </div>
       </article>
       <article class="publication-item">
-        <p class="publication-item__year">2025 <span>C21 · AAAI</span></p>
+        <p class="publication-item__year">2025 <span>AAAI</span></p>
         <div>
           <h3><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32545" target="_blank" rel="noopener noreferrer">Semantic-guided Masked Mutual Learning for Multi-modal Brain Tumor Segmentation with Arbitrary Missing Modalities <span aria-hidden="true">↗</span></a></h3>
           <p class="publication-item__authors">Guoyan Liang, Qin Zhou, Zhe Wang, Jingyuan Chen, Lin Gu, <strong>Chang Yao</strong>, Sai Wu, Bingcang Huang, Kai Chen</p>
         </div>
       </article>
       <article class="publication-item">
-        <p class="publication-item__year">2025 <span>C20 · AAAI</span></p>
+        <p class="publication-item__year">2025 <span>AAAI</span></p>
         <div>
           <h3><a href="https://ojs.aaai.org/index.php/AAAI/article/view/31988" target="_blank" rel="noopener noreferrer">Less is More: Adaptive Program Repair with Bug Localization and Preference Learning <span aria-hidden="true">↗</span></a></h3>
           <p class="publication-item__authors">Zhenlong Dai, Bingrui Chen, Zhuoluo Zhao, Xiu Tang, Sai Wu, <strong>Chang Yao</strong>, Zhipeng Gao, Jingyuan Chen</p>
         </div>
       </article>
       <article class="publication-item">
-        <p class="publication-item__year">2024 <span>C13 · ACL</span></p>
+        <p class="publication-item__year">2024 <span>ACL</span></p>
         <div>
           <h3><a href="https://aclanthology.org/2024.acl-long.207" target="_blank" rel="noopener noreferrer">MPCoder:Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning <span aria-hidden="true">↗</span></a></h3>
           <p class="publication-item__authors">Zhenlong Dai, <strong>Chang Yao</strong>, Wenkang Han, Ying Yuan, Zhipeng Gao, Jingyuan Chen</p>
