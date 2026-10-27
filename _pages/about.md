@@ -168,10 +168,48 @@ redirect_from:
   </div>
 </section>
 
+<section class="section students-section" id="students" aria-labelledby="students-title">
+  <div class="container">
+    <div class="section-topline">
+      <div>
+        <p class="section-number">04 / STUDENTS</p>
+        <h2 id="students-title">学生培养</h2>
+      </div>
+      <p class="student-note">* 表示共同第一作者</p>
+    </div>
+    <div class="student-group">
+      <div class="student-group__heading">
+        <h3>在读学生</h3>
+      </div>
+      <ul class="student-list">
+        <li class="student-row"><strong class="student-row__name">戴振龙</strong><span class="student-row__stage">2022级硕士、2024级博士</span><span class="student-row__detail">NeurIPS'26、EMNLP'26、AAAI'26、AAAI'25、ACL'24</span></li>
+        <li class="student-row"><strong class="student-row__name">王庆松</strong><span class="student-row__stage">2024级硕士</span><span class="student-row__detail">EMNLP'26、ICLR'26、CVPR'25（*）、EMNLP'25（Findings）</span></li>
+        <li class="student-row"><strong class="student-row__name">宋旭洁</strong><span class="student-row__stage">2024级硕士</span></li>
+        <li class="student-row"><strong class="student-row__name">杨千毅</strong><span class="student-row__stage">2025级博士</span><span class="student-row__detail">JBHI'25</span></li>
+        <li class="student-row"><strong class="student-row__name">赵卓荦</strong><span class="student-row__stage">2025级硕士</span><span class="student-row__detail">AAAI'26（*）</span></li>
+        <li class="student-row"><strong class="student-row__name">雷启功</strong><span class="student-row__stage">2025级硕士</span><span class="student-row__detail">NeurIPS'26</span></li>
+        <li class="student-row"><strong class="student-row__name">曹庭雨</strong><span class="student-row__stage">2025级硕士</span></li>
+        <li class="student-row"><strong class="student-row__name">楚梦琦</strong><span class="student-row__stage">2025级硕士</span></li>
+        <li class="student-row"><strong class="student-row__name">连怡超</strong><span class="student-row__stage">2026级硕士</span></li>
+      </ul>
+    </div>
+    <div class="student-group">
+      <div class="student-group__heading"><h3>毕业学生</h3></div>
+      <ul class="student-list">
+        <li class="student-row"><strong class="student-row__name">梁国艳</strong><span class="student-row__stage">2022–2026 · 博士研究生</span><span class="student-row__detail"><span class="student-row__destination">联想研究院（北京）</span><span class="student-row__achievement">IJCAI'24、AAAI'25、ICCV'25（*）、ACL'26（*）</span></span></li>
+        <li class="student-row"><strong class="student-row__name">韩文康</strong><span class="student-row__stage">2023–2026 · 硕士研究生</span><span class="student-row__detail"><span class="student-row__destination">腾讯（深圳）</span><span class="student-row__achievement">IJCAI'25、MM'25</span></span></li>
+        <li class="student-row"><strong class="student-row__name">冯玥瑛</strong><span class="student-row__stage">2023–2026 · 硕士研究生</span><span class="student-row__detail"><span class="student-row__destination">腾讯（北京）</span><span class="student-row__achievement">ICMR'24、NeurIPS'24（*）</span></span></li>
+        <li class="student-row"><strong class="student-row__name">崔奥明</strong><span class="student-row__stage">2022–2025 · 硕士研究生</span><span class="student-row__detail"><span class="student-row__destination">字节跳动</span><span class="student-row__achievement">浙江大学优秀研究生毕业生</span></span></li>
+        <li class="student-row"><strong class="student-row__name">王孝东</strong><span class="student-row__stage">2022–2025 · 硕士研究生</span><span class="student-row__detail"><span class="student-row__destination">南京银行</span></span></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
 <section class="contact-section" id="contact" aria-labelledby="contact-title">
   <div class="container contact-section__inner">
     <div>
-      <p class="section-number">04 / CONTACT</p>
+      <p class="section-number">05 / CONTACT</p>
       <h2 id="contact-title">学术交流与合作</h2>
       <p>欢迎通过浙江大学邮箱联系。</p>
     </div>
