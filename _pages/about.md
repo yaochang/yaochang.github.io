@@ -72,8 +72,7 @@ redirect_from:
           <span class="project-card__index">01 / AQuant</span>
           <h3>AQuant</h3>
           <p class="project-card__subtitle">AI驱动的量化交易模型</p>
-          <p>基于 AI 原生能力，AQuant 在沪深300、中证500、中证1000和中证2000四个指数的成分股中，识别未来一至两周相对更强的股票并建立多头组合；同时根据组合敞口配置股指期货空头，对冲大盘涨跌。</p>
-          <p>策略收益主要来自选股能力，而非市场方向。</p>
+          <p>基于 AI 原生能力，AQuant 在沪深300、中证500、中证1000和中证2000四个指数的成分股中，识别未来一至两周相对更强的股票并建立多头组合；同时根据组合敞口配置股指期货空头，对冲大盘涨跌。策略收益主要来自选股能力，而非市场方向。</p>
         </div>
         <div class="project-chart" aria-labelledby="aquant-chart-title">
           <div class="project-chart__heading">
