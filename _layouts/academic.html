@@ -20,6 +20,7 @@
         <nav class="site-nav" aria-label="主导航">
           <a href="{{ asset_prefix }}index.html#about">关于</a>
           <a href="{{ asset_prefix }}index.html#research">研究方向</a>
+          <a href="{{ asset_prefix }}index.html#representative-projects">代表性项目</a>
           <a href="{{ asset_prefix }}index.html#selected-publications">部分代表性论文</a>
           <a href="{{ asset_prefix }}index.html#teaching">教学与服务</a>
           <a href="{{ asset_prefix }}index.html#students">学生培养</a>
@@ -53,6 +54,7 @@
         <p>本主页相关内容维护由AI完成，如有错漏请与我联系，我会尽快修正，谢谢。</p>
       </div>
     </footer>
+    {% if page.url == '/' %}<script defer src="{{ asset_prefix }}assets/js/aquant-chart.js?v={{ site.time | date: '%Y%m%d%H%M%S' }}"></script>{% endif %}
     <script defer src="https://bsz.iirose.cn/js"></script>
   </body>
 </html>
