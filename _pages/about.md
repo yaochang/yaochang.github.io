@@ -77,7 +77,7 @@ redirect_from:
         </div>
         <div class="project-chart" aria-labelledby="aquant-chart-title">
           <div class="project-chart__heading">
-            <h4 id="aquant-chart-title">AQuant 实盘净值与主要指数走势</h4>
+            <h4 id="aquant-chart-title">AQuant 实盘策略与主要指数净值</h4>
             <span>2026.09.11 = 1</span>
           </div>
           <div class="project-chart__plot" id="aquant-chart-plot" hidden></div>
