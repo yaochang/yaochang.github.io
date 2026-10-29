@@ -58,11 +58,56 @@ redirect_from:
   </div>
 </section>
 
+<section class="section projects-section" id="representative-projects" aria-labelledby="projects-title">
+  <div class="container">
+    <div class="section-topline">
+      <div>
+        <p class="section-number">02 / REPRESENTATIVE PROJECTS</p>
+        <h2 id="projects-title">代表性项目</h2>
+      </div>
+    </div>
+    <div class="project-grid">
+      <article class="project-card project-card--featured">
+        <div class="project-card__content">
+          <span class="project-card__index">01 / AQuant</span>
+          <h3>AQuant</h3>
+          <p class="project-card__subtitle">AI驱动的量化交易模型</p>
+          <p>基于 AI 原生能力，AQuant 在沪深300、中证500、中证1000和中证2000四个指数的成分股中，识别未来一至两周相对更强的股票并建立多头组合；同时根据组合敞口配置股指期货空头，对冲大盘涨跌。</p>
+          <p>策略收益主要来自选股能力，而非市场方向。</p>
+        </div>
+        <div class="project-chart" aria-labelledby="aquant-chart-title">
+          <div class="project-chart__heading">
+            <h4 id="aquant-chart-title">AQuant 实盘净值与主要指数走势</h4>
+            <span>2026.09.11 = 1</span>
+          </div>
+          <div class="project-chart__plot" id="aquant-chart-plot" hidden></div>
+          <div class="project-chart__empty" id="aquant-chart-empty" role="status">实盘与指数数据接入后展示</div>
+          <ul class="project-chart__legend" id="aquant-chart-legend" hidden></ul>
+          <p class="project-chart__meta" id="aquant-chart-meta" hidden></p>
+        </div>
+      </article>
+      <article class="project-card project-card--compact">
+        <span class="project-card__index">02 / AI4H</span>
+        <h3>AI4H</h3>
+        <p class="project-card__subtitle">医院AI操作系统</p>
+        <p class="project-card__soon">Coming soon</p>
+      </article>
+      <article class="project-card project-card--compact">
+        <span class="project-card__index">03 / AI4S</span>
+        <h3>AI4S</h3>
+        <p class="project-card__subtitle">临床试验智能领航系统</p>
+        <p class="project-card__soon">Coming soon</p>
+      </article>
+    </div>
+    <script type="application/json" id="aquant-nav-data">{{ site.data.aquant_nav | jsonify }}</script>
+  </div>
+</section>
+
 <section class="section" id="selected-publications" aria-labelledby="selected-title">
   <div class="container">
     <div class="section-topline section-topline--publications">
       <div>
-        <p class="section-number">02 / REPRESENTATIVE PUBLICATIONS</p>
+        <p class="section-number">03 / REPRESENTATIVE PUBLICATIONS</p>
         <h2 id="selected-title">部分代表性论文</h2>
       </div>
       <a class="text-link" href="publications/index.html">查看论文全集 <span aria-hidden="true">↗</span></a>
@@ -147,7 +192,7 @@ redirect_from:
   <div class="container">
     <div class="section-topline">
       <div>
-        <p class="section-number">03 / TEACHING &amp; SERVICE</p>
+        <p class="section-number">04 / TEACHING &amp; SERVICE</p>
         <h2 id="teaching-title">教学与学术服务</h2>
       </div>
       <p class="section-intro">教学、学术交流与同行评议。</p>
@@ -172,7 +217,7 @@ redirect_from:
   <div class="container">
     <div class="section-topline">
       <div>
-        <p class="section-number">04 / STUDENTS</p>
+        <p class="section-number">05 / STUDENTS</p>
         <h2 id="students-title">学生培养</h2>
       </div>
       <p class="student-note">* 表示共同第一作者</p>
@@ -210,7 +255,7 @@ redirect_from:
 <section class="contact-section" id="contact" aria-labelledby="contact-title">
   <div class="container contact-section__inner">
     <div>
-      <p class="section-number">05 / CONTACT</p>
+      <p class="section-number">06 / CONTACT</p>
       <h2 id="contact-title">学术交流与合作</h2>
       <p>欢迎通过浙江大学邮箱联系。</p>
     </div>
