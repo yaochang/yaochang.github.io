@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">APTS 应用演示视频封面</title>
+  <desc id="desc">医院 AI 操作系统中的 AI 精准患者筛查系统</desc>
+  <rect width="1280" height="720" fill="#edf2f4"/>
+  <rect x="54" y="54" width="1172" height="612" rx="8" fill="#f8faf9" stroke="#c7d5dc" stroke-width="2"/>
+  <rect x="92" y="102" width="6" height="510" fill="#2d617f"/>
+  <text x="134" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans CJK SC', sans-serif" font-size="31" font-weight="700" letter-spacing="5" fill="#2d617f">AI4H · APTS</text>
+  <text x="134" y="330" font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans CJK SC', sans-serif" font-size="64" font-weight="700" fill="#182d40">AI 精准患者筛查系统</text>
+  <text x="137" y="396" font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans CJK SC', sans-serif" font-size="29" fill="#657987">医院 AI 操作系统应用演示</text>
+  <line x1="135" y1="470" x2="1030" y2="470" stroke="#c7d5dc" stroke-width="2"/>
+  <text x="137" y="536" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="22" letter-spacing="3" fill="#718792">APPLICATION DEMO</text>
+  <circle cx="1102" cy="500" r="68" fill="#2d617f"/>
+  <path d="M1081 465 L1081 535 L1134 500 Z" fill="#ffffff"/>
+</svg>
