@@ -133,7 +133,6 @@ h1, h2 { font-family: "Songti SC", "Noto Serif CJK SC", Georgia, serif; font-wei
 .project-chart__legend { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 6px 16px 0; padding: 0; list-style: none; color: var(--ink-soft); font-size: 12px; font-variant-numeric: tabular-nums; }
 .project-chart__legend li { display: flex; align-items: center; gap: 7px; }
 .project-chart__legend i { display: inline-block; width: 18px; height: 3px; background: var(--series-color); }
-.project-chart__legend i.is-dashed { height: 0; border-top: 2px dashed var(--series-color); background: none; }
 .project-chart__meta { margin: 7px 0 0; padding: 0 16px 13px; color: var(--ink-soft); font-size: 12px; font-variant-numeric: tabular-nums; }
 .project-chart__plot[hidden], .project-chart__empty[hidden], .project-chart__legend[hidden], .project-chart__meta[hidden] { display: none; }
 
