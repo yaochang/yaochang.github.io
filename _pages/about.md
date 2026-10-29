@@ -85,13 +85,31 @@ redirect_from:
           <p class="project-chart__meta" id="aquant-chart-meta" hidden></p>
         </div>
       </article>
-      <article class="project-card project-card--compact">
-        <span class="project-card__index">02 / AI4H</span>
-        <h3>AI4H</h3>
-        <p class="project-card__subtitle">医院AI操作系统</p>
-        <p class="project-card__soon">Coming soon</p>
+      <article class="project-card project-card--ai4h" aria-labelledby="ai4h-title">
+        <div class="project-card__content">
+          <span class="project-card__index">02 / AI4H</span>
+          <h3 id="ai4h-title">AI4H</h3>
+          <p class="project-card__subtitle">医院 AI 操作系统</p>
+          <p>AI 正在改变医学知识的获取与使用方式，也将改变诊疗、服务与研究的组织方式。医院 AI 操作系统以结果和任务为导向，构建临床数据供给与分析基础设施，重塑医疗业务流程，旨在促进患者获益、提升服务质量与医院整体效率。项目组围绕 AI4H 的相关成果与技术已在全国超过 300 家医院实际落地应用，支撑 CDSS、VTE、病历质控、患者追踪等医疗场景。</p>
+          <p class="project-card__foundation">前期研究：可计算医学知识库、启真医学大模型。</p>
+        </div>
+        <div class="project-media-grid">
+          <figure class="project-media">
+            <a href="assets/ai4h-architecture.png" target="_blank" rel="noopener noreferrer" aria-label="查看医院 AI 操作系统架构图大图">
+              <img src="assets/ai4h-architecture.png" alt="医院 AI 操作系统四层架构：多源数据、患者智能档案、医疗数据智能体和应用场景" width="1386" height="1002" loading="lazy" decoding="async">
+            </a>
+            <figcaption>医院 AI 操作系统架构 · 点击图片查看大图</figcaption>
+          </figure>
+          <figure class="project-media">
+            <video controls playsinline preload="metadata" poster="assets/ai4h-apts-poster.svg" aria-label="APTS AI 精准患者筛查系统应用演示">
+              <source src="assets/ai4h-apts-demo.mp4" type="video/mp4">
+              您的浏览器不支持视频播放。
+            </video>
+            <figcaption>APTS · AI 精准患者筛查系统应用演示<span class="project-media__note">相关数据均为模拟数据，实际数据以医院发布和统计的数据为准。</span></figcaption>
+          </figure>
+        </div>
       </article>
-      <article class="project-card project-card--compact">
+      <article class="project-card project-card--compact project-card--pending">
         <span class="project-card__index">03 / AI4S</span>
         <h3>AI4S</h3>
         <p class="project-card__subtitle">临床试验智能领航系统</p>
