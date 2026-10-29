@@ -119,9 +119,20 @@ h1, h2 { font-family: "Songti SC", "Noto Serif CJK SC", Georgia, serif; font-wei
 .project-card__subtitle { margin: 0 0 16px; color: var(--navy); font-size: 14px; font-weight: 650; }
 .project-card__content > p:not(.project-card__subtitle) { max-width: 980px; margin: 0 0 10px; color: var(--ink-soft); font-size: 14px; line-height: 1.8; }
 .project-card__content > p:last-child { margin-bottom: 0; }
+.project-card--ai4h { grid-column: 1 / -1; display: grid; gap: 16px; padding: 24px 28px 26px; border-top-color: #648795; }
+.project-card--ai4h .project-card__subtitle { margin-bottom: 10px; }
+.project-card__content > p.project-card__foundation { max-width: none; margin: 12px 0 0; padding-left: 11px; border-left: 2px solid #a9bac4; color: var(--ink-soft); font-size: 13px; line-height: 1.65; }
+.project-media-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+.project-media { min-width: 0; margin: 0; padding: 12px; border: 1px solid var(--line); background: #f8faf9; }
+.project-media a, .project-media img, .project-media video { display: block; width: 100%; }
+.project-media img { height: auto; }
+.project-media video { height: auto; aspect-ratio: 16 / 9; background: #17222d; }
+.project-media figcaption { margin-top: 9px; color: var(--ink-soft); font-size: 12px; line-height: 1.5; }
+.project-media__note { display: block; margin-top: 4px; color: #71838f; }
 .project-card--compact { min-height: 145px; padding: 20px 24px; }
 .project-card--compact h3 { font-size: 22px; }
 .project-card--compact .project-card__subtitle { margin-bottom: 12px; }
+.project-card--pending { grid-column: 1 / -1; min-height: 0; padding-block: 16px; }
 .project-card__soon { margin: 0; color: #7f8e99; font: italic 14px/1.5 Georgia, serif; }
 .project-chart { min-width: 0; align-self: stretch; border: 1px solid var(--line); background: #f8faf9; }
 .project-chart__heading { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; padding: 12px 16px; border-bottom: 1px solid var(--line); }
@@ -241,7 +252,9 @@ h1, h2 { font-family: "Songti SC", "Noto Serif CJK SC", Georgia, serif; font-wei
   .research-area p { grid-column: 1 / -1; grid-row: 3; margin-top: 8px; }
   .projects-section { padding-block: 45px 50px; }
   .project-grid { grid-template-columns: 1fr; }
-  .project-card--featured { padding: 20px; }
+  .project-card--featured, .project-card--ai4h { padding: 20px; }
+  .project-media-grid { grid-template-columns: 1fr; gap: 12px; }
+  .project-media { padding: 10px; }
   .project-card--compact { min-height: 0; padding: 19px 20px; }
   .project-chart__heading { align-items: start; flex-direction: column; gap: 2px; }
   .project-chart__empty { min-height: 120px; }
