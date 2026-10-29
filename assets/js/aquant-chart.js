@@ -7,7 +7,8 @@
   if (!dataNode || !plot || !empty || !legend || !meta) return;
 
   const definitions = [
-    { id: "aquant", label: "AQuant", color: "#193b5b", width: 3 },
+    { id: "aquant", label: "AQuant 策略（资金成本加回）", color: "#193b5b", width: 3.2 },
+    { id: "aquant_net", label: "账户净值（扣融资成本）", color: "#7393a8", width: 2, dash: "5 4" },
     { id: "csi300", label: "沪深300", color: "#ad7545", width: 1.8 },
     { id: "csi500", label: "中证500", color: "#438385", width: 1.8 },
     { id: "csi1000", label: "中证1000", color: "#766699", width: 1.8 },
@@ -75,7 +76,7 @@
   const svg = make("svg", {
     viewBox: `0 0 ${width} ${height}`,
     role: "img",
-    "aria-label": `AQuant 与沪深300、中证500、中证1000、中证2000净值对比，${source.base_date} 均为 1，最新日期 ${dates.at(-1)}`,
+    "aria-label": `AQuant 实盘策略净值（资金成本加回）、账户实际净值（扣融资成本）与沪深300、中证500、中证1000、中证2000净值对比，${source.base_date} 均为 1，最新日期 ${dates.at(-1)}`,
   });
   for (let index = 0; index <= 4; index += 1) {
     const value = yMin + ((yMax - yMin) * index) / 4;
@@ -90,16 +91,19 @@
   }));
   for (const item of series) {
     const path = item.points.map((point, index) => `${index === 0 ? "M" : "L"}${x(point).toFixed(2)},${y(point.nav).toFixed(2)}`).join(" ");
-    svg.appendChild(make("path", {
+    const lineAttributes = {
       d: path, fill: "none", stroke: item.color, "stroke-width": item.width,
       "stroke-linecap": "round", "stroke-linejoin": "round",
-    }));
+    };
+    if (item.dash) lineAttributes["stroke-dasharray"] = item.dash;
+    svg.appendChild(make("path", lineAttributes));
     const last = item.points.at(-1);
     svg.appendChild(make("circle", { cx: x(last), cy: y(last.nav), r: item.id === "aquant" ? 4 : 2.5, fill: item.color }));
     const listItem = document.createElement("li");
     const swatch = document.createElement("i");
     swatch.setAttribute("aria-hidden", "true");
     swatch.style.setProperty("--series-color", item.color);
+    if (item.dash) swatch.classList.add("is-dashed");
     listItem.append(swatch, document.createTextNode(`${item.label} ${last.nav.toFixed(4)}`));
     legend.appendChild(listItem);
   }
@@ -112,7 +116,7 @@
     svg.appendChild(label);
   }
   plot.appendChild(svg);
-  meta.textContent = `AQuant 净值为实盘数据；四条指数采用收盘点位。数据截至 ${dates.at(-1)}，相关数字将定期同步，具体以此处日期为准。`;
+  meta.textContent = `两条 AQuant 曲线均基于实盘数据：策略净值在账户净收益基础上加回融资成本，用于评价模型表现；账户净值保留实际融资成本。四条指数采用收盘点位。数据截至 ${dates.at(-1)}，相关数字将定期同步。`;
   empty.hidden = true;
   plot.hidden = false;
   legend.hidden = false;
