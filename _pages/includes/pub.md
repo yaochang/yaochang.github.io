@@ -3,6 +3,12 @@
 
 ## 会议论文
 
+### 2027
+
+- \[C48\] **REACT: Relevance-Enhanced Adaptive Consensus for Multi-Task Data Selection**
+<br />Wenxue Cao, Xiu Tang, Huan Li, Sai Wu, **Chang Yao**, Lidan Shou
+<br />The Twentieth International Conference on Web Search and Data Mining (WSDM), 2027
+
 ### 2026
 
 - \[C47\] [ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning](https://arxiv.org/pdf/2609.30906)
