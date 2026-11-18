@@ -270,3 +270,7 @@
 
 [EgoLink Challenge 2026.](https://ego-link.github.io/challenge2026/) 
 
+- [EgoLink: Egocentric Language-Vision Interactive Network Knowledge Challenge Summary](https://doi.org/10.1145/3767308.3837706) · [公开全文（arXiv）](https://arxiv.org/pdf/2611.21690)
+<br />Renhe Sun, Yueying Feng, Bohan Yu, Tong Niu, Yunqi Liu, Zitong Wang, Haolin He, Kexin Shi, Hualei Wang, Qiuqiang Kong, **Chang Yao**, Yuge Huang, Weiqiang Wang, Jingyuan Chen, Jian Liu
+<br />Proceedings of the 34th ACM International Conference on Multimedia (MM '26), 2026, pp. 17505–17509
+
