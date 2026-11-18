@@ -126,9 +126,7 @@
     svg.appendChild(label);
   }
   plot.appendChild(svg);
-  meta.textContent = isProvisional
-    ? `AQuant 模型净值基于实盘账户净收益，将融资成本加回后计算。截至 ${latestDate}，AQuant 为盘中估算，四条指数为当日收盘后行情快照，待中证指数官网正式收盘点位核验；曲线末段以虚线表示临时数据。相关数字将定期同步。`
-    : `AQuant 模型净值基于实盘账户净收益，将融资成本加回后计算；四条指数采用收盘点位。数据截至 ${latestDate}，相关数字将定期同步。`;
+  meta.textContent = "AQuant 模型净值基于实盘账户净收益";
   empty.hidden = true;
   plot.hidden = false;
   legend.hidden = false;
