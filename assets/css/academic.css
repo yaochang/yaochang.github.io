@@ -181,6 +181,9 @@ h1, h2 { font-family: "Songti SC", "Noto Serif CJK SC", Georgia, serif; font-wei
 .student-row__detail { color: var(--ink-soft); }
 .student-row__destination { color: var(--ink); font-weight: 600; }
 .student-row__achievement { margin-left: 14px; }
+.student-group + .student-group .student-row { grid-template-columns: 88px 245px minmax(0, 1fr); }
+.student-group + .student-group .student-row__detail { display: grid; grid-template-columns: 150px minmax(0, 1fr); column-gap: 14px; min-width: 0; }
+.student-group + .student-group .student-row__achievement { min-width: 0; margin-left: 0; }
 .contact-section { scroll-margin-top: 76px; padding-block: 48px; background: var(--navy-deep); color: #fff; }
 .contact-section__inner { display: flex; align-items: end; justify-content: space-between; gap: 35px; }
 .contact-section .section-number { color: #dec5a4; }
@@ -231,6 +234,8 @@ h1, h2 { font-family: "Songti SC", "Noto Serif CJK SC", Georgia, serif; font-wei
   .research-area { grid-template-columns: 30px minmax(0, 1fr); }
   .research-area h3, .research-area__en, .research-area p { grid-column: 2; }
   .research-area p { grid-row: 3; margin-top: 8px; }
+  .student-group + .student-group .student-row { grid-template-columns: 88px minmax(0, 1fr); row-gap: 2px; }
+  .student-group + .student-group .student-row__detail { grid-column: 1 / -1; }
 }
 @media (max-width: 680px) {
   .container, .inner-page main { width: min(100% - 36px, 540px); }
@@ -271,6 +276,8 @@ h1, h2 { font-family: "Songti SC", "Noto Serif CJK SC", Georgia, serif; font-wei
   .student-row__name { font-size: 14px; }
   .student-row__detail { grid-column: 1 / -1; }
   .student-row__achievement { margin-left: 10px; }
+  .student-group + .student-group .student-row { grid-template-columns: 70px minmax(0, 1fr); }
+  .student-group + .student-group .student-row__detail { grid-template-columns: minmax(0, 1fr); row-gap: 2px; }
   .contact-section { scroll-margin-top: 96px; padding-block: 42px; }
   .contact-section__inner { display: block; }
   .contact-section a { display: inline-block; margin-top: 14px; font-size: 16px; }
